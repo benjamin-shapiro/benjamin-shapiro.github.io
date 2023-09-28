@@ -1,4 +1,4 @@
-# Projects
+## Projects
 
 ### EO Unlocked
 
@@ -6,7 +6,7 @@
 
 ### NashCalc: The Most Intuitive Way to Game Theorize 
 
-# Creative 
+## Creative 
 
 ### Photography
 
