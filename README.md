@@ -8,7 +8,7 @@
 
 ## Creative 
 
-### ![Photography](bshapirophoto.com)
+### [Photography](bshapirophoto.com)
 
 ### Animation
 
