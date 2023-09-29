@@ -1,11 +1,8 @@
-## Let's Connect &/or go for a run!
-<img src="/Images/Linkedin.png" width="50" height="50" /> <img src="/Images/Strava.png" width="50" height="50" rel="https://www.strava.com/athletes/6805827" />
-
 ## I'm currently working on 
 
 * Open Source Satellite Imagery Counterintelligence Tool
 * Aeromate, your personal wind tunnel
-* Global extension of Barcelona's Cool Walks Application (pedestrian thermal comfort routing) using Streetview imagery-derived 3d representations of urban environments 
+* Global extension of Barcelona's Cool Walks Application (pedestrian thermal comfort routing) using Streetview imagery-derived 3D representations of urban environments 
 
 ## I'm currently learning
 
@@ -17,16 +14,20 @@
 ## Code
 
 * ### EO Unlocked: Metadata Search Engine for Earth Observation
-  >
-* ### Wingman: Real-Time Hazard Detection and Warning System for Cyclists 
-  >
+  > User-centric innovation for Earth Observation, seeking to increase market transparency through “big metadata” analysis. Uses space situational awareness data from Celestrak, propagated via SGP4, and made searchable using an R-Tree spatial index. Search and filtering GUI developed in React and ThreeJS with the use of open meteo API for supplemental weather data. 
+  
+* ### Wingman: Hazard Detection and Warning System for Cyclists 
+  >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), Arduino (for video acquisition), and Python ML backend.
+
 * ### NashCalc: The Most Intuitive Way to Game Theorize
-  >
+  >An intuitive interface designed to improve accessibility to and interactivity with algorithmic game theory libraries through modern web frameworks, reducing the field’s barriers to entry for students and researchers alike.
+  
 * ### Aromap: The Olfactory Social Network
   >Our web application lets you track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.  
 
 * ### Real-Time Profanity Filtering in Audio
-  >
+  >Employed the Google Cloud Speech to Text API with pyaudio and python multiprocessing to create a low-latency profanity filter.
+  
 ## Creative 
 
 * ### [Photography](https://bshapirophoto.com)
@@ -60,3 +61,7 @@
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Blockchain Basics
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Mathematics for Machine Learning: Linear Algebra
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Intro to Augmented Reality & ARCore
+
+
+## Let's Connect &/or go for a run!
+<img src="/Images/Linkedin.png" width="50" height="50" /> <img src="/Images/Strava.png" width="50" height="50" rel="https://www.strava.com/athletes/6805827" />
