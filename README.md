@@ -21,7 +21,7 @@
 ## Creative 
 
 * ### [Photography](https://bshapirophoto.com)
-![Benjamin Shapiro's Astrophotography(/Images/astro.jpg)](https://bshapirophoto.com/astro)
+![Benjamin Shapiro's Astrophotography(/Images/astro.jpeg)](https://bshapirophoto.com/astro)
 ![Benjamin Shapiro's Wildlife Photography()](https://bshapirophoto.com/wildlife)
 ![Benjamin Shapiro's Travel Photography()](https://bshapirophoto.com/travel)
 
