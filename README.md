@@ -10,7 +10,7 @@
   ![EO Unlocked Gif Representing Proliferation of Spacecraft](/Images/EOUnlocked2.png)
   
 * ### Wingman: Hazard Detection and Warning System for Cyclists 
-  >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), Arduino (for video acquisition), and Python ML backend.
+  >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), the Arduino ESP32-CAM microcontroller (for video acquisition), and Python ML backend.
 
 * ### NashCalc: The Most Intuitive Way to Game Theorize
   >An intuitive interface designed to improve accessibility to and interactivity with algorithmic game theory libraries through modern web frameworks, reducing the field’s barriers to entry for students and researchers alike.
@@ -36,6 +36,7 @@
 </a>
 
 * ### Animation
+  
 <a href="https://youtu.be/bK_9kRmw0oA" target="_blank">
   <img src="/Images/AlphaAnim1.gif" alt="Alpha Animation 1" />
 </a>
