@@ -5,8 +5,8 @@
 * ### EO Unlocked: Metadata Search Engine for Earth Observation
   > User-centric innovation for Earth Observation, seeking to increase market transparency through “big metadata” analysis. Uses space situational awareness data from Celestrak, propagated via SGP4, and made searchable using an R-Tree spatial index. Search and filtering GUI developed in React and ThreeJS with the use of open meteo API for supplemental weather data.
 
- *Screenshots
   ![EO Unlocked Gif Representing Proliferation of Spacecraft](/Images/EOUnlocked1.gif)
+  
   ![EO Unlocked Gif Representing Proliferation of Spacecraft](/Images/EOUnlocked2.png)
   
 * ### Wingman: Hazard Detection and Warning System for Cyclists 
@@ -27,8 +27,7 @@
 [![Benjamin Shapiro's Astrophotography](/Images/Astro.jpg)](https://bshapirophoto.com/astro) [![Benjamin Shapiro's Wildlife Photography](/Images/Wildlife.jpg)](https://bshapirophoto.com/wildlife) [![Benjamin Shapiro's Travel Photography](/Images/Travel.jpg)](https://bshapirophoto.com/travel)
 
 * ### Animation
-[![Alpha CubeSat Lightsail Deployment Video 1]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 2]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 3]()](alpha link) 
-[![Light Sabah]()](https://www.youtube.com/watch?v=Jvhs1F3hcCg) 
+[![Alpha CubeSat Lightsail Deployment Video 1]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 2]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 3]()](alpha link)
 
 ## Technical Competencies
 
