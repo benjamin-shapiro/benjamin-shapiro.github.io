@@ -1,4 +1,4 @@
-
+# Projects
 
 ### EO Unlocked
 
@@ -8,7 +8,7 @@
 
 ## Creative 
 
-### Photography
+### ![Photography](bshapirophoto.com)
 
 ### Animation
 
