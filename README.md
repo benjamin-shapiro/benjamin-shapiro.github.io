@@ -1,5 +1,5 @@
 ## Let's Connect 
-<img src="https://wordpress.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png" width="115" height="25" />
+<img src="/Images/Linkedin.png" width="50" height="50" />
 <img src="/Images/Strava.png" width="50" height="50" />
 
 ## I'm currently working on 
