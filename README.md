@@ -1,7 +1,4 @@
 
-##
-
-# Projects
 
 ## Code
 
