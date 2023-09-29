@@ -43,7 +43,7 @@
 
 ## Additional Coursework
 
-* #### <img src="https://wordpress.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png" width="100" height="22" /> Prompt Engineering
+* #### <img src="https://wordpress.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png" width="120" height="27" /> Prompt Engineering
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) The Finance of Climate Change
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Private Equity & Venture Capital
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Forensic Accounting & Fraud Examination
