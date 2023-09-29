@@ -1,15 +1,4 @@
-## I'm currently working on 
-
-* Open Source Satellite Imagery Counterintelligence Tool
-* Aeromate, your personal wind tunnel
-* Global extension of Barcelona's Cool Walks Application (pedestrian thermal comfort routing) using Streetview imagery-derived 3D representations of urban environments 
-
-## I'm currently learning
-
-* CesiumJS
-* Openfoam
-* OpenCV 
-* Mapillary
+#### **Dear visitor, welcome to my portfolio!**
 
 ## Code
 
@@ -62,6 +51,23 @@
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Mathematics for Machine Learning: Linear Algebra
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Intro to Augmented Reality & ARCore
 
+## I'm currently working on 
+
+* Open Source Satellite Imagery Counterintelligence Tool
+* Aeromate, your personal wind tunnel
+* Global extension of Barcelona's Cool Walks Application (pedestrian thermal comfort routing) using Streetview imagery-derived 3D representations of urban environments 
+
+## I'm currently learning
+
+* CesiumJS
+* Openfoam
+* OpenCV 
+* Mapillary
 
 ## Let's Connect &/or go for a run!
-<img src="/Images/Linkedin.png" width="50" height="50" rel="https://www.linkedin.com/in/benjaminshapiro1/"/> <img src="/Images/Strava.png" width="50" height="50" rel="https://www.strava.com/athletes/6805827" />
+<a href="https://www.linkedin.com/in/benjaminshapiro1/" target="_blank">
+  <img src="/Images/Linkedin.png" width="50" height="50" alt="LinkedIn" />
+</a>
+<a href="https://www.strava.com/athletes/6805827" target="_blank">
+  <img src="/Images/Strava.png" width="50" height="50" alt="Strava" />
+</a>
