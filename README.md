@@ -65,10 +65,9 @@
 * Mapillary
 
 ## Let's Connect &/or go for a run!
-<a href="https://www.linkedin.com/in/schmingus/" target="_blank">
+<a href="https://www.linkedin.com/in/benjaminshapiro1/" target="_blank">
   <img src="/Images/Linkedin.png" width="50" height="50" alt="LinkedIn" />
 </a>
-<a href="https://www.strava.com/athletes/684754" target="_blank">
+<a href="https://www.strava.com/athletes/6805827" target="_blank">
   <img src="/Images/Strava.png" width="50" height="50" alt="Strava" />
 </a>
-
