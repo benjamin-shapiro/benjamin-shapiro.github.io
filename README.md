@@ -26,13 +26,13 @@
 * ### [Photography](https://bshapirophoto.com)
 
 <a href="https://bshapirophoto.com/astro" target="_blank">
-  <img src="/Images/Astro.jpg" width="333" height="333" alt="Benjamin Shapiro's Astrophotography" />
+  <img src="/Images/Astro.jpg" width="250" height="250" alt="Benjamin Shapiro's Astrophotography" />
 </a>
 <a href="https://bshapirophoto.com/wildlife" target="_blank">
-  <img src="/Images/Wildlife.jpg" width="333" height="333" alt="Benjamin Shapiro's Wildlife Photography" />
+  <img src="/Images/Wildlife.jpg" width="250" height="250" alt="Benjamin Shapiro's Wildlife Photography" />
 </a>
 <a href="https://bshapirophoto.com/travel" target="_blank">
-  <img src="/Images/Travel.jpg" width="333" height="333" alt="Benjamin Shapiro's Travel Photography" />
+  <img src="/Images/Travel.jpg" width="250" height="250" alt="Benjamin Shapiro's Travel Photography" />
 </a>
 
 * ### Animation
