@@ -3,6 +3,11 @@
 * Open Source Satellite Imagery Counterintelligence Tool
 * Aeromate, your personal wind tunnel
 
+## I'm currently learning
+
+* CesiumJS
+* 
+
 ## Code
 
 ### EO Unlocked
@@ -32,5 +37,7 @@
 ## Additional Coursework
 
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) The Finance of Climate Change
+* #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Private Equity & Venture Capital
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) 
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Mathematics for Machine Learning: Linear Algebra
+* #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Intro to Augmented Reality and ARCore
