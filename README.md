@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://wordpress.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png" width="200" height="400" />
 
 ## I'm currently working on 
 
