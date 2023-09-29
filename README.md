@@ -2,6 +2,7 @@
 
 * Open Source Satellite Imagery Counterintelligence Tool
 * Aeromate, your personal wind tunnel
+* Global extension of Barcelona's Cool Walks Application (pedestrian thermal comfort routing) using Streetview imagery-derived 3d representations of urban environments 
 
 ## I'm currently learning
 
@@ -21,9 +22,9 @@
 ## Creative 
 
 * ### [Photography](https://bshapirophoto.com)
-[![Benjamin Shapiro's Astrophotography](/Images/Astro.jpg)](google.com)
-![Benjamin Shapiro's Wildlife Photography()](https://bshapirophoto.com/wildlife)
-![Benjamin Shapiro's Travel Photography()](https://bshapirophoto.com/travel)
+[![Benjamin Shapiro's Astrophotography](/Images/Astro.jpg)](https://bshapirophoto.com/astro)
+[![Benjamin Shapiro's Wildlife Photography](/Images/Astro.jpg)](https://bshapirophoto.com/wildlife)
+[![Benjamin Shapiro's Travel Photography](/Images/Astro.jpg)](https://bshapirophoto.com/travel)
 
 * ### Animation
 [![Alpha CubeSat Lightsail Deployment Video 1]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 2]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 3]()](alpha link) 
