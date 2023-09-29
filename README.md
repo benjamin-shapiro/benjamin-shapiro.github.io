@@ -1,6 +1,5 @@
 ## Let's Connect 
-<img src="/Images/Linkedin.png" width="50" height="50" />
-<img src="/Images/Strava.png" width="50" height="50" />
+<img src="/Images/Linkedin.png" width="50" height="50" /> <img src="/Images/Strava.png" width="50" height="50" />
 
 ## I'm currently working on 
 
@@ -31,9 +30,7 @@
 ## Creative 
 
 * ### [Photography](https://bshapirophoto.com)
-[![Benjamin Shapiro's Astrophotography](/Images/Astro.jpg)](https://bshapirophoto.com/astro)
-[![Benjamin Shapiro's Wildlife Photography](/Images/Wildlife.jpg)](https://bshapirophoto.com/wildlife)
-[![Benjamin Shapiro's Travel Photography](/Images/Travel.jpg)](https://bshapirophoto.com/travel)
+[![Benjamin Shapiro's Astrophotography](/Images/Astro.jpg)](https://bshapirophoto.com/astro) [![Benjamin Shapiro's Wildlife Photography](/Images/Wildlife.jpg)](https://bshapirophoto.com/wildlife) [![Benjamin Shapiro's Travel Photography](/Images/Travel.jpg)](https://bshapirophoto.com/travel)
 
 * ### Animation
 [![Alpha CubeSat Lightsail Deployment Video 1]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 2]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 3]()](alpha link) 
