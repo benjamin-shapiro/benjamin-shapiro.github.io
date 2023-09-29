@@ -1,4 +1,4 @@
-<img src="https://wordpress.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png" width="200" height="400" />
+<img src="https://wordpress.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png" width="200" height="200" />
 
 ## I'm currently working on 
 
