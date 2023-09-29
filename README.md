@@ -3,7 +3,9 @@
 ## Code
 
 * ### EO Unlocked: Metadata Search Engine for Earth Observation
-  > User-centric innovation for Earth Observation, seeking to increase market transparency through “big metadata” analysis. Uses space situational awareness data from Celestrak, propagated via SGP4, and made searchable using an R-Tree spatial index. Search and filtering GUI developed in React and ThreeJS with the use of open meteo API for supplemental weather data. 
+  > User-centric innovation for Earth Observation, seeking to increase market transparency through “big metadata” analysis. Uses space situational awareness data from Celestrak, propagated via SGP4, and made searchable using an R-Tree spatial index. Search and filtering GUI developed in React and ThreeJS with the use of open meteo API for supplemental weather data.
+
+  
   
 * ### Wingman: Hazard Detection and Warning System for Cyclists 
   >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), Arduino (for video acquisition), and Python ML backend.
