@@ -1,3 +1,7 @@
+## Let's Connect 
+<img src="https://wordpress.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png" width="115" height="25" />
+<img src="/Images/Strava" width="50" height="50" />
+
 ## I'm currently working on 
 
 * Open Source Satellite Imagery Counterintelligence Tool
@@ -13,17 +17,17 @@
 
 ## Code
 
-* ### EO Unlocked
-
+* ### EO Unlocked: Metadata Search Engine for Earth Observation
+  >
 * ### Wingman: Real-Time Hazard Detection and Warning System for Cyclists 
-
+  >
 * ### NashCalc: The Most Intuitive Way to Game Theorize
-
+  >
 * ### Aromap: The Olfactory Social Network
- * >Our web application lets you track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.  
+  >Our web application lets you track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.  
 
 * ### Real-Time Profanity Filtering in Audio
-
+  >
 ## Creative 
 
 * ### [Photography](https://bshapirophoto.com)
