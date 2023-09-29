@@ -39,9 +39,11 @@
 <a href="https://youtu.be/bK_9kRmw0oA" target="_blank">
   <img src="/Images/AlphaAnim1.gif" alt="Alpha Animation 1" />
 </a>
+
 <a href="https://youtu.be/mtEorwJlq1c" target="_blank">
   <img src="/Images/AlphaAnim2.gif" alt="Alpha Animation 2" />
 </a>
+
 <a href="https://youtu.be/5sR2MDufFdQ" target="_blank">
   <img src="/Images/AlphaAnim3.gif" alt="Alpha Animation 3" />
 </a>
