@@ -7,13 +7,15 @@
 
   ![EO Unlocked Gif Representing Proliferation of Spacecraft](/Images/EOUnlocked1.gif)
   
-  ![EO Unlocked Gif Representing Proliferation of Spacecraft](/Images/EOUnlocked2.png)
+  ![Search Result from EO Unlocked given a lat,lon as well as a timeframe of interest](/Images/EOUnlocked2.png)
   
 * ### Wingman: Hazard Detection and Warning System for Cyclists 
   >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), the Arduino ESP32-CAM microcontroller (for video acquisition), and Python ML backend.
 
 * ### NashCalc: The Most Intuitive Way to Game Theorize
   >An intuitive interface designed to improve accessibility to and interactivity with algorithmic game theory libraries through modern web frameworks, reducing the field’s barriers to entry for students and researchers alike.
+  
+  ![NashCalc Title Page](/Images/NashCalc1.gif)
   
 * ### Aromap: The Olfactory Social Network
   >Our web application lets you track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.
