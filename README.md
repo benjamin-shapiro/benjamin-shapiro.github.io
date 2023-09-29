@@ -25,6 +25,15 @@
 
 * ### [Photography](https://bshapirophoto.com)
 [![Benjamin Shapiro's Astrophotography](/Images/Astro.jpg)](https://bshapirophoto.com/astro) [![Benjamin Shapiro's Wildlife Photography](/Images/Wildlife.jpg)](https://bshapirophoto.com/wildlife) [![Benjamin Shapiro's Travel Photography](/Images/Travel.jpg)](https://bshapirophoto.com/travel)
+<a href="https://bshapirophoto.com/astro" target="_blank">
+  <img src="/Images/Astro.jpg" width="100" height="100" alt="Benjamin Shapiro's Astrophotography" />
+</a>
+<a href="https://bshapirophoto.com/wildlife" target="_blank">
+  <img src="/Images/Wildlife.jpg" width="100" height="100" alt="Benjamin Shapiro's Wildlife Photography" />
+</a>
+<a href="https://bshapirophoto.com/travel" target="_blank">
+  <img src="/Images/Travel.jpg" width="100" height="100" alt="Benjamin Shapiro's Travel Photography" />
+</a>
 
 * ### Animation
 [![Alpha CubeSat Lightsail Deployment Video 1]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 2]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 3]()](alpha link)
