@@ -36,7 +36,15 @@
 </a>
 
 * ### Animation
-[![Alpha CubeSat Lightsail Deployment Video 1]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 2]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 3]()](alpha link)
+<a href="https://youtu.be/bK_9kRmw0oA" target="_blank">
+  <img src="/Images/AlphaAnim1.gif" alt="Alpha Animation 1" />
+</a>
+<a href="https://youtu.be/mtEorwJlq1c" target="_blank">
+  <img src="/Images/AlphaAnim2.gif" alt="Alpha Animation 2" />
+</a>
+<a href="https://youtu.be/5sR2MDufFdQ" target="_blank">
+  <img src="/Images/AlphaAnim3.gif" alt="Alpha Animation 3" />
+</a>
 
 ## Technical Competencies
 
@@ -83,3 +91,7 @@
 <a href="https://www.strava.com/athletes/6805827" target="_blank">
   <img src="/Images/Strava.png" width="50" height="50" alt="Strava" />
 </a>
+
+
+
+
