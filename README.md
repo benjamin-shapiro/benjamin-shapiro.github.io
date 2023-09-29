@@ -17,18 +17,23 @@
 
 * ### Wingman: Real-Time Hazard Detection and Warning System for Cyclists 
 
-* ### NashCalc: The Most Intuitive Way to Game Theorize 
+* ### NashCalc: The Most Intuitive Way to Game Theorize
+
+* ### Aromap: The Olfactory Social Network
+ * >Our web application lets you track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.  
+
+* ### Real-Time Profanity Filtering in Audio
 
 ## Creative 
 
 * ### [Photography](https://bshapirophoto.com)
 [![Benjamin Shapiro's Astrophotography](/Images/Astro.jpg)](https://bshapirophoto.com/astro)
-[![Benjamin Shapiro's Wildlife Photography](/Images/Astro.jpg)](https://bshapirophoto.com/wildlife)
-[![Benjamin Shapiro's Travel Photography](/Images/Astro.jpg)](https://bshapirophoto.com/travel)
+[![Benjamin Shapiro's Wildlife Photography](/Images/Wildlife.jpg)](https://bshapirophoto.com/wildlife)
+[![Benjamin Shapiro's Travel Photography](/Images/Travel.jpg)](https://bshapirophoto.com/travel)
 
 * ### Animation
 [![Alpha CubeSat Lightsail Deployment Video 1]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 2]()](alpha link) [![Alpha CubeSat Lightsail Deployment Video 3]()](alpha link) 
-[![Light Sabah](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Jvhs1F3hcCg) 
+[![Light Sabah]()](https://www.youtube.com/watch?v=Jvhs1F3hcCg) 
 
 ## Technical Competencies
 
