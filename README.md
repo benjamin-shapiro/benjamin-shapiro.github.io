@@ -8,7 +8,9 @@
 ## I'm currently learning
 
 * CesiumJS
-* 
+* Openfoam
+* OpenCV 
+* Mapillary
 
 ## Code
 
