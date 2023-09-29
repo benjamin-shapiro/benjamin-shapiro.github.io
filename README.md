@@ -1,5 +1,5 @@
-## Let's Connect 
-<img src="/Images/Linkedin.png" width="50" height="50" /> <img src="/Images/Strava.png" width="50" height="50" />
+## Let's Connect &/or go for a run!
+<img src="/Images/Linkedin.png" width="50" height="50" /> <img src="/Images/Strava.png" width="50" height="50" rel="https://www.strava.com/athletes/6805827" />
 
 ## I'm currently working on 
 
