@@ -15,7 +15,7 @@
 * ### NashCalc: The Most Intuitive Way to Game Theorize
   >An intuitive interface designed to improve accessibility to and interactivity with algorithmic game theory libraries through modern web frameworks, reducing the field’s barriers to entry for students and researchers alike.
   
-  ![NashCalc Title Page](/Images/NashCalc1.gif)
+  ![NashCalc Title Page](/Images/NashCalc1.png)
   
 * ### Aromap: The Olfactory Social Network
   >Our web application lets you track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.
