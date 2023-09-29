@@ -45,7 +45,7 @@
 
 ## Additional Coursework
 
-* #### ![Deeplearning AI](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAKlBMVEVHcEz/SmH/SmD/SmH/SmH/SmH/SmH/SmH/SmH/SmH/SmD/SmH/SmH/SmEo+PpTAAAADnRSTlMA/w/sssmeKXmSQWVU2f1ylLEAAAE3SURBVCiRdVMJksQgCBQBAY//f3cbTWqTnVkqpYnN0WCnlIdVWPlm1UaIqviwD4fedGmLaHBo/R3mrApARHNhfwTXRk3D2+zdxVWdWn1hravj3UTmeqJOq7HFsvwYNAaFkF9cmJzc+Aa1LprEm1UN0kbWiU5aYmsUeDKxMYVSBcjep2AzJxnYAE6EKJkRjHNZIKg4nQCDaCh5FbosyiLtuZeCwyG0yuSDLUOUABTwUaT19Bsb454nAw5aNyggBbS6yKiGA0YLCZbNL6MW7sN6ZPaxQw4hRB06fOrKLhGnlRxH8M2Wo9qi00rWQ29lyoZZ5i51hpC1Ud2ghTnGhA5Oy3t8Ofh09PsG5zot3Vd2TEbv8659+2KWH/aSwr/YFtgTeglsS/O3zz/SPKKGdKHdL6K+PN6/ww9AXAlRZ1lCcQAAAABJRU5ErkJggg==) Prompt
+* #### ![Deeplearning AI](https://wordpress.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png) Prompt
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) The Finance of Climate Change
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Private Equity & Venture Capital
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Forensic Accounting & Fraud Examination
