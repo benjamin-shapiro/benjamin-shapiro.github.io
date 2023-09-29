@@ -16,7 +16,10 @@
   >An intuitive interface designed to improve accessibility to and interactivity with algorithmic game theory libraries through modern web frameworks, reducing the field’s barriers to entry for students and researchers alike.
   
 * ### Aromap: The Olfactory Social Network
-  >Our web application lets you track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.  
+  >Our web application lets you track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.
+
+* ### Inter-exchange arbitrage visualization and analysis
+  >Explored and visualized inter-exchange arbitrage opportunities with Python NetworkX and Matplotlib.   
 
 * ### Real-Time Profanity Filtering in Audio
   >Employed the Google Cloud Speech to Text API with pyaudio and python multiprocessing to create a low-latency profanity filter.
