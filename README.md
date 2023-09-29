@@ -1,5 +1,7 @@
 # Projects
 
+## Code
+
 ### EO Unlocked
 
 ### Wingman: Real-Time Hazard Detection and Warning System for Cyclists 
