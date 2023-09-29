@@ -23,8 +23,13 @@
 ## Creative 
 
 ### [Photography](https://bshapirophoto.com)
+![Benjamin Shapiro's Astrophotography()](https://bshapirophoto.com/astro)
+![Benjamin Shapiro's Wildlife Photography()](https://bshapirophoto.com/wildlife)
+![Benjamin Shapiro's Travel Photography()](https://bshapirophoto.com/travel)
 
 ### Animation
+[![Alpha CubeSat Lightsail Deployment]()](alpha link)
+[![Light Sabah](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Jvhs1F3hcCg)
 
 ## Technical Competencies
 
