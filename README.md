@@ -1,6 +1,7 @@
 ## I'm currently working on 
 
-
+* Open Source Satellite Imagery Counterintelligence Tool
+* Aeromate, your personal wind tunnel
 
 ## Code
 
