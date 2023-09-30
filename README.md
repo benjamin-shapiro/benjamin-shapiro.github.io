@@ -53,7 +53,7 @@
 </a>
 
 * ### Animation
-  >Simulation of on-orbit light sail deployment from the Cornell Alpha CubeSat, developed and choreographed in Unreal Engine 4
+  >Simulation of on-orbit free-flying light sail deployment from the [Cornell Alpha CubeSat](https://alphacubesat.cornell.edu/index.html), developed and choreographed in Unreal Engine 4
 <a href="https://youtu.be/bK_9kRmw0oA" target="_blank">
   <img src="/Images/AlphaAnim1.gif" alt="Alpha Animation 1" />
 </a>
