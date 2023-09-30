@@ -95,7 +95,7 @@
 
 * Open Source Satellite Imagery Counterintelligence Tool
 * Aeromate: Your Personal Wind Tunnel
-* (https://cool.bcnregional.com/) Global extension of Barcelona's Cool Walks Application (pedestrian thermal comfort routing) using Streetview imagery-derived 3D representations of urban environments 
+* Global extension of [Barcelona's Cool Walks Application] (https://cool.bcnregional.com/) (pedestrian thermal comfort routing) using Streetview imagery-derived 3D representations of urban environments 
 
 ## I'm currently learning
 
