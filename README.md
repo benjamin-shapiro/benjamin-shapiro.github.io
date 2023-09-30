@@ -26,7 +26,7 @@
 
   ![Aromap Screenshot 2 (adding a smell)](/Images/Aromap2.png)
 
-* ### Cryptocurrency exchange arbitrage visualization and analysis
+* ### Cryptocurrency Exchange Arbitrage Visualization and Analysis
   >Explored and visualized intra and inter-exchange arbitrage opportunities with Python's NetworkX and Matplotlib using the Bellman-Ford algorithm to identify negative cycles in the bidirected graphs.
 
   ![Crypto Exchange Arbitrage Visualization](/Images/Arbitrage1.jpg)
@@ -94,8 +94,8 @@
 ## I'm currently working on 
 
 * Open Source Satellite Imagery Counterintelligence Tool
-* Aeromate, your personal wind tunnel
-* Global extension of Barcelona's Cool Walks Application (pedestrian thermal comfort routing) using Streetview imagery-derived 3D representations of urban environments 
+* Aeromate: Your Personal Wind Tunnel
+* (https://cool.bcnregional.com/) Global extension of Barcelona's Cool Walks Application (pedestrian thermal comfort routing) using Streetview imagery-derived 3D representations of urban environments 
 
 ## I'm currently learning
 
