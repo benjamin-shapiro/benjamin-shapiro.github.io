@@ -13,7 +13,7 @@
   >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), the Arduino ESP32-CAM microcontroller (for video acquisition), and Python ML backend.
 
 * ### NashCalc: The Most Intuitive Way to Game Theorize
-  >An intuitive interface designed to improve accessibility to and interactivity with algorithmic game theory libraries through modern web frameworks, reducing the field’s barriers to entry for students and researchers alike.
+  >An intuitive interface designed to improve accessibility to and interactivity with algorithmic game theory libraries through modern web frameworks, reducing the field’s barriers to entry for students and researchers alike. Functional for two-player standard form games of NxN dimensions. 
   
   ![NashCalc Title Page](/Images/NashCalc1.png)
   
