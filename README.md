@@ -16,6 +16,8 @@
   >An intuitive interface designed to improve accessibility to and interactivity with algorithmic game theory libraries through modern web frameworks, reducing the field’s barriers to entry for students and researchers alike. Functional for two-player standard form games of NxN dimensions. 
   
   ![NashCalc Title Page](/Images/NashCalc1.png)
+
+  ![NashCalc Functionality Recording](/Images/NashCalc2.gif)
   
 * ### Aromap: The Olfactory Social Network
   >Our web application lets you track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.
@@ -24,7 +26,7 @@
 
   ![Aromap Screenshot 2 (adding a smell)](/Images/Aromap2.png)
 
-* ### Inter-exchange arbitrage visualization and analysis
+* ### Cryptocurrency exchange arbitrage visualization and analysis
   >Explored and visualized intra and inter-exchange arbitrage opportunities with Python's NetworkX and Matplotlib using the Bellman-Ford algorithm to identify negative cycles in the bidirected graphs.
 
   ![Crypto Exchange Arbitrage Visualization](/Images/Arbitrage1.jpg)
