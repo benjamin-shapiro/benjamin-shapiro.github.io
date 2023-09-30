@@ -3,14 +3,14 @@
 ## Code
 
 * ### EO Unlocked: Metadata Search Engine for Earth Observation
-  > User-centric innovation for Earth Observation, seeking to increase market transparency through “big metadata” analysis. Uses space situational awareness data from Celestrak, propagated via SGP4, and made searchable using an R-Tree spatial index. Search and filtering GUI developed in React and ThreeJS with the use of open meteo API for supplemental weather data.
+  > User-centric innovation for Earth Observation, seeking to increase market transparency through “big metadata” analysis. Uses space situational awareness data from Celestrak, propagated via SGP4, and made searchable using an R-Tree spatial index. Search and filtering GUI developed in React and ThreeJS with the use of [Open-Meteo API](https://open-meteo.com/) for supplemental weather data.
 
   ![EO Unlocked Gif Representing Proliferation of Spacecraft](/Images/EOUnlocked1.gif)
   
   ![Search Result from EO Unlocked given a lat,lon as well as a timeframe of interest](/Images/EOUnlocked2.png)
   
 * ### Wingman: Hazard Detection and Warning System for Cyclists 
-  >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), the Arduino ESP32-CAM microcontroller (for video acquisition), and Python ML backend.
+  >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), the Arduino ESP32-CAM microcontroller (for video acquisition), and Python ML backend for object detection, classification, and monocular distance estimation which was trained using the [KITTI Vision Dataset](https://www.cvlibs.net/datasets/kitti/).
 
 * ### NashCalc: The Most Intuitive Way to Game Theorize
   >An intuitive interface designed to improve accessibility to and interactivity with algorithmic game theory libraries through modern web frameworks, reducing the field’s barriers to entry for students and researchers alike. Functional for two-player standard form games of NxN dimensions. 
@@ -20,7 +20,7 @@
   ![NashCalc Functionality Recording](/Images/NashCalc2.gif)
   
 * ### Aromap: The Olfactory Social Network
-  >Our web application lets you track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.
+  >Track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.
 
   ![Aromap Screenshot 1](/Images/Aromap1.png)
 
@@ -36,7 +36,7 @@
   ![Crypto Exchange Arbitrage Visualization](/Images/Arbitrage3.jpg)
 
 * ### Real-Time Profanity Filtering in Audio
-  >Employed the Google Cloud Speech to Text API with pyaudio and python multiprocessing to create a low-latency profanity filter.
+  >Low-latency profanity filter that uses the Google Cloud Speech-to-Text API with PyAudio and Python multiprocessing.
   
 ## Creative 
 
