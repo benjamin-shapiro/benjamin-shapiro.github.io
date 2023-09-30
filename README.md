@@ -21,7 +21,7 @@
   >Our web application lets you track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.
 
 * ### Inter-exchange arbitrage visualization and analysis
-  >Explored and visualized inter-exchange arbitrage opportunities with Python NetworkX and Matplotlib.
+  >Explored and visualized intra and inter-exchange arbitrage opportunities with Python's NetworkX and Matplotlib using the Bellman-Ford algorithm to identify negative cycles in the bidirected graphs.
 
   ![Crypto Exchange Arbitrage Visualization](/Images/Arbitrage1.jpg)
   
