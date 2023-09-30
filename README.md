@@ -21,7 +21,13 @@
   >Our web application lets you track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.
 
 * ### Inter-exchange arbitrage visualization and analysis
-  >Explored and visualized inter-exchange arbitrage opportunities with Python NetworkX and Matplotlib.   
+  >Explored and visualized inter-exchange arbitrage opportunities with Python NetworkX and Matplotlib.
+
+  ![Crypto Exchange Arbitrage Visualization](/Images/Arbitrage1.jpg)
+  
+  ![Crypto Exchange Arbitrage Visualization](/Images/Arbitrage2.jpg)
+  
+  ![Crypto Exchange Arbitrage Visualization](/Images/Arbitrage3.jpg)
 
 * ### Real-Time Profanity Filtering in Audio
   >Employed the Google Cloud Speech to Text API with pyaudio and python multiprocessing to create a low-latency profanity filter.
