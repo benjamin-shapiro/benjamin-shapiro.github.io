@@ -12,6 +12,8 @@
 * ### Wingman: Hazard Detection and Warning System for Cyclists 
   >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), the Arduino ESP32-CAM microcontroller (for rearward-facing video acquisition), and Python ML backend for object detection and classification using TensorFlow Lite and the MobileNet model, and monocular distance estimation which was trained using the [KITTI Vision Dataset](https://www.cvlibs.net/datasets/kitti/) via XGBoost.
 
+![Wingman Product Mockup and Poster](/Images/Wingman1.png)
+
 ![Wingman Arduino Render](/Images/Wingman2.gif)
 
 ![Wingman Bike, Arduino, and Phone Render](/Images/Wingman3.gif)
@@ -41,6 +43,11 @@
 
 * ### Real-Time Profanity Filtering in Audio
   >Low-latency profanity filter that uses the Google Cloud Speech-to-Text API with PyAudio and Python multiprocessing.
+  
+## Publications
+[**_The Role of Space During Pandemics_** (ISU, 2020)](https://isulibrary.isunet.edu/index.php?lvl=notice_display&id=11027#)
+
+>The International Space University’s 2020 Interactive Space Program was unprecedented - the first program of its kind tasked with tackling a global challenge online, utilizing the resources of an international community of 86 crew members from 20 countries. Spread across time zones, working remotely, and collaborating online, crew members have split into three crew habitats to investigate and report on innovative space-based applications and resources so that humanity can better prevent, monitor, mitigate, and prepare for future pandemics.
   
 ## Creative 
 
