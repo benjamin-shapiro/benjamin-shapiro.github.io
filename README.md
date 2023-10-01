@@ -34,14 +34,14 @@
 
   ![Aromap Screenshot 2 (adding a smell)](/Images/Aromap2.png)
 
-* ### Cryptocurrency Exchange Arbitrage Visualization and Analysis
-  >Explored and visualized intra and inter-exchange arbitrage opportunities with Python's NetworkX and Matplotlib using the Bellman-Ford algorithm to identify negative cycles in the bidirected graphs.
+* ### Financial Exchange Network Visualization and Analysis
+  >Visualization generated with Python's NetworkX and Matplotlib using the Bellman-Ford algorithm to identify negative cycles in the bidirected graphs.
 
-  ![Crypto Exchange Arbitrage Visualization](/Images/Arbitrage1.jpg)
+  ![Exchange Visualization](/Images/Arbitrage1.jpg)
   
-  ![Crypto Exchange Arbitrage Visualization](/Images/Arbitrage2.jpg)
+  ![Exchange Visualization](/Images/Arbitrage2.jpg)
   
-  ![Crypto Exchange Arbitrage Visualization](/Images/Arbitrage3.jpg)
+  ![Exchange Visualization](/Images/Arbitrage3.jpg)
 
 * ### Real-Time Profanity Filtering in Audio
   >Low-latency profanity filter that uses the Google Cloud Speech-to-Text API with PyAudio and Python multiprocessing.
