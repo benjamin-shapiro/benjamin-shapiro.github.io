@@ -10,7 +10,11 @@
   ![Search Result from EO Unlocked given a lat,lon as well as a timeframe of interest](/Images/EOUnlocked2.png)
   
 * ### Wingman: Hazard Detection and Warning System for Cyclists 
-  >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), the Arduino ESP32-CAM microcontroller (for video acquisition), and Python ML backend for object detection, classification, and monocular distance estimation which was trained using the [KITTI Vision Dataset](https://www.cvlibs.net/datasets/kitti/).
+  >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), the Arduino ESP32-CAM microcontroller (for rearward-facing video acquisition), and Python ML backend for object detection and classification using TensorFlow Lite and the MobileNet model, and monocular distance estimation which was trained using the [KITTI Vision Dataset](https://www.cvlibs.net/datasets/kitti/) via XGBoost.
+
+![Wingman Arduino Render](/Images/Wingman2.gif)
+
+![Wingman Bike, Arduino, and Phone Render](/Images/Wingman3.gif)
 
 * ### NashCalc: The Most Intuitive Way to Game Theorize
   >An intuitive interface designed to improve accessibility to and interactivity with algorithmic game theory libraries through modern web frameworks, reducing the field’s barriers to entry for students and researchers alike. Functional for two-player standard form games of NxN dimensions. 
