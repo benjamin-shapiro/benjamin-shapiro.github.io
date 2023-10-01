@@ -47,7 +47,7 @@
   >Low-latency profanity filter that uses the Google Cloud Speech-to-Text API with PyAudio and Python multiprocessing.
   
 ## Publications
-[**_CSS Enterprise, Feasibility Study for a Commercial Space Station in low Earth Orbit: Promising Onboard Activities_** (ISU, 2023)](https://isulibrary.isunet.edu/index.php?lvl=notice_display&id=11819)
+[**_CSS Enterprise, Feasibility Study for a Commercial Space Station in Low Earth Orbit: Promising Onboard Activities_** (ISU, 2023)](https://isulibrary.isunet.edu/index.php?lvl=notice_display&id=11819)
 
 >This study offers a roadmap for future business opportunities and practical recommendations for diverse activities, demands, and possibilities in a commercial space station (CSS) during the 2020s and beyond. Understanding the financial and economic sustainability of a CSS will shape the future of space exploration and open doors for space-based research, in-space manufacturing, space tourism, and other profitable ventures. Therefore, this study can help commercial space entities to exploit emerging opportunities and encourage space agencies to expand their activities and optimize their allocations of resources.
 
