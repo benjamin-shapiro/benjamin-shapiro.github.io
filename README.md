@@ -4,15 +4,14 @@
 
 * ### EO Unlocked: Metadata Search Engine for Earth Observation
   > User-centric innovation for Earth Observation, seeking to increase market transparency through “big metadata” analysis. Uses space situational awareness data from Celestrak, propagated via SGP4, and made searchable using an R-Tree spatial index. Search and filtering GUI developed in React and ThreeJS with the use of [Open-Meteo API](https://open-meteo.com/) for supplemental weather data.
-  
-  >Simply select a location of interest and receive instant results for predicted visual footprints of a virtual constellation of more than 300 spacecraft, ranked by cloud cover. 
-
   ![EO Unlocked Gif Representing Proliferation of Spacecraft](/Images/EOUnlocked1.gif)
+
+  >Simply select a location of interest and receive instant results for predicted visual footprints of a virtual constellation of more than 300 spacecraft, ranked by cloud cover. 
   
   ![Search Result from EO Unlocked given a lat,lon as well as a timeframe of interest](/Images/EOUnlocked2.png)
   
 * ### Wingman: Hazard Detection and Warning System for Cyclists 
-  >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), the Arduino ESP32-CAM microcontroller (for rearward-facing video acquisition), and Python ML backend for object detection and classification using TensorFlow Lite and the MobileNet model, and monocular distance estimation which was trained using the [KITTI Vision Dataset](https://www.cvlibs.net/datasets/kitti/) via XGBoost using an implementation from the [DisNet 2018 Paper](https://project.inria.fr/ppniv18/files/2018/10/paper22.pdf).
+  >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), the Arduino ESP32-CAM microcontroller (for rearward-facing video acquisition), and Python ML backend for object detection and classification using TensorFlow Lite and the MobileNet model, and monocular distance estimation model trained using the [KITTI Vision Dataset](https://www.cvlibs.net/datasets/kitti/) via XGBoost using an implementation from the [DisNet 2018 Paper](https://project.inria.fr/ppniv18/files/2018/10/paper22.pdf).
 
 ![Wingman Product Mockup and Poster](/Images/Wingman1.png)
 
