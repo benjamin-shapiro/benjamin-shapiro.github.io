@@ -3,16 +3,16 @@
 ## Code
 
 * ### EO Unlocked: Metadata Search Engine for Earth Observation
-  > User-centric innovation for Earth Observation, seeking to increase market transparency through “big metadata” analysis. Uses space situational awareness data from Celestrak, propagated via SGP4, and made searchable using an R-Tree spatial index. Search and filtering GUI developed in React and ThreeJS with the use of [Open-Meteo API](https://open-meteo.com/) for supplemental weather data.
+  > User-centric innovation for Earth Observation, seeking to increase market transparency through “big metadata” analysis. Uses space situational awareness data from [Celestrak](https://celestrak.org/), propagated via [SGP4](https://en.wikipedia.org/wiki/Simplified_perturbations_models), and made searchable using an [R-Tree spatial index](https://en.wikipedia.org/wiki/R-tree). Search and filtering GUI developed in React and ThreeJS with the use of [Open-Meteo API](https://open-meteo.com/) for supplemental weather data. Sensor specifications for thousands of spacecraft mined from [ESA's eoPortal](https://www.eoportal.org/), [the World Meteorological Organization's "Oscar" Tool](https://space.oscar.wmo.int/), [Nanosats EU](https://www.nanosats.eu/), and [Gunter's Space Page](https://space.skyrocket.de/index.html). The unstructured data was then synthesized and organized programmatically using the [OpenAI API](https://openai.com/blog/openai-api). 
   
   ![EO Unlocked Gif Representing Proliferation of Spacecraft](/Images/EOUnlocked1.gif)
 
-  >Simply select a location of interest and receive instant results for predicted visual footprints of a virtual constellation of more than 300 spacecraft, ranked by cloud cover. 
+  >Simply select a location and historical timeframe of interest and receive instant results for predicted visual footprints of a virtual constellation of more than 350 spacecraft, ranked by cloud coverage. 
   
   ![Search Result from EO Unlocked given a lat,lon as well as a timeframe of interest](/Images/EOUnlocked2.png)
   
 * ### Wingman: Hazard Detection and Warning System for Cyclists 
-  >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses Kivy (mobile app GUI), the Arduino ESP32-CAM microcontroller (for rearward-facing video acquisition), and Python ML backend for object detection and classification using TensorFlow Lite and the MobileNet model, and monocular distance estimation model trained using the [KITTI Vision Dataset](https://www.cvlibs.net/datasets/kitti/) via XGBoost using an implementation from the [DisNet 2018 Paper](https://project.inria.fr/ppniv18/files/2018/10/paper22.pdf).
+  >A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses [Kivy](https://kivy.org/) (mobile app GUI), the Arduino [ESP32-CAM](https://loboris.eu/ESP32/ESP32-CAM%20Product%20Specification.pdf) microcontroller (for rearward-facing video acquisition sent over wifi to the mobile device), a Python ML backend for object detection and classification using TensorFlow Lite and the [MobileNet vision model](https://arxiv.org/abs/1704.04861) plus a custom monocular distance estimation model trained using the [KITTI Vision Dataset](https://www.cvlibs.net/datasets/kitti/) via [XGBoost](https://xgboost.readthedocs.io/en/stable/) using an implementation from the [DisNet 2018 Paper](https://project.inria.fr/ppniv18/files/2018/10/paper22.pdf).
 
 ![Wingman Product Mockup and Poster](/Images/Wingman1.png)
 
