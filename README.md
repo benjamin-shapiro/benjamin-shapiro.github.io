@@ -47,7 +47,7 @@
   >Low-latency profanity filter that uses the Google Cloud Speech-to-Text API with PyAudio and Python multiprocessing.
   
 ## Publications
-[**_Shapiro Space_** (Substack, Ongoing)](https://benjaminshapiro.substack.com/)
+[**_Shapiro Space_** (Substack, Ongoing)](https://benjaminpshapiro.substack.com/)
 
 >Weekly publication posing thought provoking questions and providing detailed analyses of the emerging space economy and its impacts on life on Earth.
 
