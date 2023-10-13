@@ -1,5 +1,6 @@
 ---
-layout: default
+permalink: /Creative
+layout: page
 title: Creative
 ---
 

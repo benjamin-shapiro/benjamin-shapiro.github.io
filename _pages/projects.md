@@ -1,5 +1,6 @@
 ---
-layout: default
+permalink: /Projects
+layout: page
 title: Projects
 ---
 
