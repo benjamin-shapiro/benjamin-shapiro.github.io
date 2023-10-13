@@ -4,8 +4,6 @@ layout: page
 title: Publications
 ---
 
-# Publications
-
 ## Publications
 [**_Shapiro Space_** (Substack, Ongoing)](https://benjaminpshapiro.substack.com/)
 

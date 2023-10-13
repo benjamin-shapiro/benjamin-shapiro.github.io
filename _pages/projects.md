@@ -4,8 +4,6 @@ layout: page
 title: Projects
 ---
 
-# Projects
-
 * ### EO Unlocked: Metadata Search Engine for Earth Observation
   > User-centric innovation for Earth Observation, seeking to increase market transparency through “big metadata” analysis. Uses space situational awareness data from [Celestrak](https://celestrak.org/), propagated via [SGP4](https://en.wikipedia.org/wiki/Simplified_perturbations_models), and made searchable using an [R-Tree spatial index](https://en.wikipedia.org/wiki/R-tree). Search and filtering GUI developed in React and ThreeJS with the use of [Open-Meteo API](https://open-meteo.com/) for supplemental weather data. Sensor specifications for thousands of spacecraft mined from [ESA's eoPortal](https://www.eoportal.org/), [the World Meteorological Organization's "Oscar" Tool](https://space.oscar.wmo.int/), [Nanosats EU](https://www.nanosats.eu/), and [Gunter's Space Page](https://space.skyrocket.de/index.html). The unstructured data was then synthesized and organized programmatically using the [OpenAI API](https://openai.com/blog/openai-api). 
   

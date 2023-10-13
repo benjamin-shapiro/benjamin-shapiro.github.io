@@ -4,8 +4,6 @@ layout: page
 title: Creative
 ---
 
-# Creative
-
 * ### [Photography](https://bshapirophoto.com)
 
 <a href="https://bshapirophoto.com/astro" target="_blank">
