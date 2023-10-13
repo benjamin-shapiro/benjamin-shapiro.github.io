@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 #### **Dear visitor, welcome to my portfolio!**
 
 ## Code
