@@ -5,6 +5,7 @@ title: Creative
 ---
 
 * ### [Photography](https://bshapirophoto.com)
+>Check out more of my astro, wildlife and travel photography [here](https://bshapirophoto.com) 
 
 <a href="https://bshapirophoto.com/astro" target="_blank">
   <img src="/Images/Astro.jpg" width="233" height="233" alt="Benjamin Shapiro's Astrophotography" />
