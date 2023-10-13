@@ -5,7 +5,9 @@ theme: minima
 # Minima: custom header links
 header_pages:
   - _pages/home.md
-  - _pages/projects.md
+  - _pages/space.md
+  - _pages/ai.md
+  - _pages/finance.md
   - _pages/publications.md
   - _pages/creative.md
 
