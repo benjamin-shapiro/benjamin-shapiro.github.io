@@ -23,5 +23,5 @@ title: AI & Computer Vision
 >Low-latency profanity filter using the Google Cloud Speech-to-Text API with PyAudio and Python multiprocessing to manage input and output audio streams.
 
 <a>
-  <img src="/Images/Profanity.jpg" width="699" alt="Profanity Icon" />
+  <img src="/Images/Profanity.png" width="699" alt="Profanity Icon" />
 </a>
