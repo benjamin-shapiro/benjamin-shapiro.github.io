@@ -29,21 +29,22 @@ title: Space
 </a>
 
 * ### Detecting Cloud Cover from Space Using Infrared Sensors (Miami Young Data Scientists)
->Winning experimental machine learning entry in the 2015 Association of Space Explorers (ASE) Astrosat Challenge. We had the opportunity to run our code on-orbit aboard Spire Global's Lemur 2 NanoSatellite. 
+
+>We had the opportunity to run our code on-orbit aboard Spire Global's Lemur 2 NanoSatellite as part of a winning experimental machine learning entry in the 2015 Association of Space Explorers (ASE) Astrosat Challenge. 
 
 ![Winner Announcement: ASE Astrosat Challenge](/Images/ArdusatWinner.png)
 
->Data collection was constrained to 15kb, or approximately 1500 observations from an equatorial orbit. Used a support vector machine approach on infrared emissivity data, validated with live weather apis. 
+>Data collection was constrained to 15 kilobytes, approximately 1500 observations, from an equatorial orbit. Used a support vector machine approach on infrared emissivity data to predict cloud cover, validated with live weather apis. 
 
 ![Experimental Code: Detecting Cloud Cover from Space Using Infrared Sensors](/Images/ArdusatCode.png)
 
 >Achieved approximately 75% accuracy in the binary classification problem (is it a cloud or not?). 
 
 <a>
-  <img src="/Countdown.png" width="300" height="300" alt="Countdown Institute Logo">
+  <img src="/Images/Countdown.png" width="350" height="350" alt="Countdown Institute Logo">
 </a>
 <a>
-  <img src="/Images/ArdusatLinReg.png" width="300" height="300" alt="Data Output with Linear Regression Best Fit">
+  <img src="/Images/ArdusatLinReg.png" width="350" height="350" alt="Data Output with Linear Regression Best Fit">
 </a>
 
 >My teammate and I delivered our findings to the local Miami tech community with the Countdown Institute and taught introductory space and data science to local students.
