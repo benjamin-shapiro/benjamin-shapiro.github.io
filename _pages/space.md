@@ -35,7 +35,7 @@ title: Space
 >We had the opportunity to run our code on-orbit aboard Spire Global's Lemur 2 NanoSatellite as part of a winning experimental machine learning entry in the 2015 Association of Space Explorers (ASE) Astrosat Challenge. 
 
 <a>
-  <img src="/Images/ArdustatSat.png" width="699" alt="Render of Ardusat NanoSat" />
+  <img src="/Images/ArdusatSat.png" width="699" alt="Render of Ardusat NanoSat" />
 </a>
 
 ![Winner Announcement: ASE Astrosat Challenge](/Images/ArdusatWinner.png)
