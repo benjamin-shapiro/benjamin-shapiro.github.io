@@ -18,6 +18,8 @@ title: Creative
     <img src="/Images/Travel.jpg" width="233" height="233" alt="Benjamin Shapiro's Travel Photography" />
 </a>
 
+>Middle photo, "Eyes in a Green Ocean" won first place in the 2018 Cornell Institute for Healthy Futures [Healing Through Photography Competition](https://ihf.cornell.edu/competitions/).
+
 * ### Aromap: The Olfactory Social Network
   >Track and report smells around your area! Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends! In a world where smells are our most dear sense, aroMap is your guiding light.
 
