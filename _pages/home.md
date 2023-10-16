@@ -6,11 +6,11 @@ title: Home
 
 #### **Dear visitor, welcome to my portfolio!**
 
->Growing up in the beautiful US Virgin Islands, as an astrophotographer, I spent my nights looking skyward. When my home was ravaged by not one, but two hurricanes of near-biblical proportions, I felt an obligation to join the battle for our planet’s future. I found my calling in space.
+>Growing up in the beautiful US Virgin Islands, an astrophotographer on a healthy diet of Isaac Asimov and Arthur C. Clarke, I spent my nights looking skyward. When my home was ravaged by not one, but two hurricanes of near-biblical proportions, I felt an obligation to join the battle for our planet’s future. I found my calling in space.
 
 >Today, as a space economist and aerospace professional with a strong background in data-centric technical initiatives and team projects across academia, government, and National Security Space, I am enthusiastic about harnessing space to bring tangible benefits to life on Earth. I am especially passionate about deploying downstream space-derived data in tandem with finance to support climate, energy, national security, and space sustainability initiatives. 
 
-Make yourself at home and stay a while -- enjoy! 
+>Make yourself at home and stay a while -- enjoy! 
 
 ## I'm currently working on 
 
