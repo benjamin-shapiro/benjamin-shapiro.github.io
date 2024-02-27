@@ -5,7 +5,7 @@ title: Publications
 ---
 
 ## Publications
-[**_Junior Fellowship at the Institute of Space Commerce_** (, Ongoing)](https://change.space)
+[**_Junior Fellowship at the Institute of Space Commerce_** (Ongoing)](https://change.space)
 
 [**_CSS Enterprise, Feasibility Study for a Commercial Space Station in Low Earth Orbit: Promising Onboard Activities_** (ISU, 2023)](https://isulibrary.isunet.edu/index.php?lvl=notice_display&id=11819)
 
