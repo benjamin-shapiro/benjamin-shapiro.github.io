@@ -5,9 +5,7 @@ title: Publications
 ---
 
 ## Publications
-[**_Shapiro Space_** (Substack, Ongoing)](https://benjaminpshapiro.substack.com/)
-
->Weekly publication posing thought provoking questions and providing detailed analyses of the emerging space economy and its impacts on life on Earth.
+[**_Junior Fellowship at the Institute of Space Commerce_** (, Ongoing)](https://change.space)
 
 [**_CSS Enterprise, Feasibility Study for a Commercial Space Station in Low Earth Orbit: Promising Onboard Activities_** (ISU, 2023)](https://isulibrary.isunet.edu/index.php?lvl=notice_display&id=11819)
 
