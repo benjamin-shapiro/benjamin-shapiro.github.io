@@ -38,9 +38,9 @@ title: Home
 
 ## Additional Coursework
 
-* #### <img src="https://wordpress.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png" width="115" height="25" /> Prompt Engineering
-* #### <img src="https://wordpress.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png" width="115" height="25" /> Building Systems with ChatGPT
-* #### <img src="https://wordpress.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png" width="115" height="25" /> LangChain
+* #### <img src="https://learn.deeplearning.ai/assets/dlai-logo.png" width="115" height="25" /> Prompt Engineering
+* #### <img src="https://learn.deeplearning.ai/assets/dlai-logo.png" width="115" height="25" /> Building Systems with ChatGPT
+* #### <img src="https://learn.deeplearning.ai/assets/dlai-logo.png" width="115" height="25" /> LangChain
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) The Finance of Climate Change
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Private Equity & Venture Capital
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Forensic Accounting & Fraud Examination
