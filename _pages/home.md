@@ -12,17 +12,10 @@ title: Home
 
 >Make yourself at home and stay a while -- enjoy! 
 
-## I'm currently working on 
-
-* Aeromate: Your Personal Wind Tunnel
-* Global extension of [Barcelona's Cool Walks Application](https://cool.bcnregional.com/ 'Barcelona Cool Walks App') (pedestrian thermal comfort routing) using Streetview imagery-derived 3D representations of urban environments 
-
-## I'm currently learning
-
-* CesiumJS
-* Openfoam
-* OpenCV 
-* Mapillary
+## I'm currently thinking about
+* Realtime time-space cartograms that more accurately reflect travel difficulty over diverse terrain and traffic conditions for multiple modalities of transport
+* Global extension of [Barcelona's Cool Walks Application](https://cool.bcnregional.com/ 'Barcelona Cool Walks App') (pedestrian thermal comfort routing) using Streetview imagery-derived 3D representations of urban environments
+* Aeromate: "Your Personal Wind Tunnel", combining [Nvidia's Neurangelo](https://research.nvidia.com/labs/dir/neuralangelo/) Surface Reconstruction model with open source CFD to analyze the aerodynamic properties of any physical object
 
 ## Technical Competencies
 
