@@ -1,5 +1,5 @@
 ---
-permalink: /geo
+permalink: /Geo
 layout: page
 title: Maps & Geospatial
 ---
