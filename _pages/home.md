@@ -13,6 +13,7 @@ title: Home
 >Make yourself at home and stay a while -- enjoy! 
 
 ## I'm currently thinking about
+* Creating interactive art pieces -- 3D holographic representations of physical change on Earth -- using [light field printing](https://dl.acm.org/doi/10.1145/2929484.2929487) and reconstructions of satellite imagery [timelapses](https://earthengine.google.com/timelapse/)
 * Realtime [time-space cartograms](https://maps.vvolhejn.com/) that more accurately reflect travel difficulty over diverse terrain and traffic conditions for multiple modalities of transport
 * Global extension of [Barcelona's Cool Walks Application](https://cool.bcnregional.com/ 'Barcelona Cool Walks App') (pedestrian thermal comfort routing) using Streetview imagery-derived 3D representations of urban environments
 * Aeromate: "Your Personal Wind Tunnel", combining [Nvidia's Neurangelo](https://research.nvidia.com/labs/dir/neuralangelo/) Surface Reconstruction model with open source CFD to analyze the aerodynamic properties of any physical object from a standard RGB video
