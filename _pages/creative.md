@@ -18,4 +18,4 @@ title: Creative
     <img src="/Images/Travel.jpg" width="233" height="233" alt="Benjamin Shapiro's Travel Photography" />
 </a>
 
->Middle photo, "Eyes in a Green Ocean" won first place in the 2018 Cornell Institute for Healthy Futures [Healing Through Photography Competition](https://ihf.cornell.edu/competitions/).
+>Middle photo, "Eyes in a Green Ocean" won first place in the 2018 Cornell Institute for Healthy Futures [Healing Through Photography Competition](https://ihf.cornell.edu/news-events/student-competitions/).
