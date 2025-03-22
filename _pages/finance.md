@@ -6,7 +6,7 @@ title: Econ & Finance
 
 * ### NashCalc: The Most Intuitive Way to Game Theorize
   
->An intuitive interface designed to improve accessibility to and interactivity with algorithmic game theory libraries like [Gambit](http://www.gambit-project.org/gambit13/pyapi.html) and [Nashpy](https://nashpy.readthedocs.io/en/stable/) through modern web frameworks, reducing the field’s barriers to entry for students and researchers alike. Currently functional for two-player standard form games of NxN dimensions. 
+>An intuitive interface designed to improve accessibility to and interactivity with algorithmic game theory libraries like [Gambit](https://gambitproject.readthedocs.io/en/latest/) and [Nashpy](https://nashpy.readthedocs.io/en/stable/) through modern web frameworks, reducing the field’s barriers to entry for students and researchers alike. Currently functional for two-player standard form games of NxN dimensions. 
 
 ![NashCalc Title Page](/Images/NashCalc1.png)
 
