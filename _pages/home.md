@@ -45,7 +45,7 @@ title:
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Intro to Augmented Reality & ARCore
 
 
-## Let's Connect and/or go for a run!
+## Let's Connect and go for a bike ride!
 <a href="https://www.linkedin.com/in/benjaminshapiro1/" target="_blank">
   <img src="/Images/Linkedin.png" width="50" height="50" alt="LinkedIn" />
 </a>
