@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: page
-title: Home
+title:
 ---
 
 #### **Dear visitor, welcome to my portfolio!**
