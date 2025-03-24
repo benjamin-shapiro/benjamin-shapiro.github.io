@@ -24,6 +24,7 @@ title: Maps & Geospatial
 
 * ### Rising Sea Level Risks to Miami (2100 Inundation Projections)
 >Highlighting severe inundation risks to densely populated and economically vital areas using projections from NASA and the Florida Climate Center. The results visually emphasize increased vulnerability along low-lying coastal regions, particularly during storm surges and high-tide events, underscoring the urgent need for substantial mitigation efforts to protect Miami’s infrastructure and residents.
+
 ![Sea Level Rise Map for Miami Utilizing DEM](/Images/SeaLevelRise.png)
 
 * ### Aromap: The Olfactory Social Network
