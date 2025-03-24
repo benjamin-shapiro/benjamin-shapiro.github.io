@@ -4,7 +4,6 @@ layout: page
 title: Maps & Geospatial
 ---
 
-
 * ### Yosemite National Park Map Replication and Improvement
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js"></script><!-- Add custom element to <body> of your page --> <arcgis-embedded-map style="height:600px;width:700px;" item-id="ac23f352324f4eb7980c0ae88f2c9f35" theme="light" legend-enabled portal-url="https://uclageography.maps.arcgis.com" ></arcgis-embedded-map>
 
@@ -19,11 +18,15 @@ title: Maps & Geospatial
 ![Search Result from EO Unlocked given a lat,lon as well as a timeframe of interest](/Images/EOUnlocked2.png)
 
 * ### 2022 LA County Toxic Waste Release Hazard to K-12 Educational Institutions: A Geospatial Analysis
+>Assessing the proximity of Toxic Release Inventory (TRI) facilities to K-12 schools in Los Angeles County, identifying significant potential exposure risks for students through utilization of spatial buffering and overlay tools. Results indicate that 92.9% of TRI sites are located within one mile of a school, with 64 schools situated near multiple high-risk facilities. 
+
 ![LA TRI Facilities Overlayed over Areas within One Mile of a School](/Images/ToxicWaste1.png)
+>Above: LA TRI Facilities Overlayed over Areas within One Mile of a School
+>Below: Significant Large TRI Emissions Site Count in Proximity to Schools (Torrance Highlight)
 ![Significant Large TRI Emissions Site Count in Proximity to Schools (Torrance Highlight)](/Images/ToxicWaste2.png)
 
 * ### Rising Sea Level Risks to Miami (2100 Inundation Projections)
->Highlighting severe inundation risks to densely populated and economically vital areas using projections from NASA and the Florida Climate Center. The results visually emphasize increased vulnerability along low-lying coastal regions, particularly during storm surges and high-tide events, underscoring the urgent need for substantial mitigation efforts to protect Miami’s infrastructure and residents.
+>Highlighting severe inundation risks to densely populated and economically vital areas in the city using projections from NASA and the Florida Climate Center. The results visually emphasize increased vulnerability along low-lying coastal regions, particularly during storm surges and high-tide events, underscoring the urgent need for substantial mitigation efforts to protect Miami’s infrastructure and residents.
 
 ![Sea Level Rise Map for Miami Utilizing DEM](/Images/SeaLevelRise.png)
 
