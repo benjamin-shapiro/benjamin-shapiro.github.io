@@ -24,6 +24,7 @@ title: Maps & Geospatial
 >Above: LA TRI Facilities Overlayed over Areas within One Mile of a School
 
 >Below: Significant Large TRI Emissions Site Count in Proximity to Schools (Torrance Highlight)
+
 ![Significant Large TRI Emissions Site Count in Proximity to Schools (Torrance Highlight)](/Images/ToxicWaste2.png)
 
 * ### Rising Sea Level Risks to Miami (2100 Inundation Projections)
