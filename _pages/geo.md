@@ -5,6 +5,8 @@ title: Maps & Geospatial
 ---
 
 * ### Yosemite National Park Map Replication and Enhancement
+  
+> Effort to reproduce and then enhance the symbology of Yosemite National Park's official map by highlighting iconic natural landmarks -- including mountain peaks, waterfalls, and granite domes -- previously understated due to generic and ambiguous representations. New icons and labeling schemes were introduced to emphasize the unique prominence of these features, improving map clarity, visitor orientation, and engagement with the park's landscape.
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js"></script><!-- Add custom element to <body> of your page --> <arcgis-embedded-map style="height:600px;width:700px;" item-id="ac23f352324f4eb7980c0ae88f2c9f35" theme="light" legend-enabled portal-url="https://uclageography.maps.arcgis.com" ></arcgis-embedded-map>
 
 * ### EO Unlocked: Metadata Search Engine for Earth Observation
@@ -18,6 +20,7 @@ title: Maps & Geospatial
 ![Search Result from EO Unlocked given a lat,lon as well as a timeframe of interest](/Images/EOUnlocked2.png)
 
 * ### 2022 LA County Toxic Waste Release Hazard to K-12 Educational Institutions: A Geospatial Analysis
+  
 >Assessing the proximity of Toxic Release Inventory (TRI) facilities to K-12 schools in Los Angeles County, identifying significant potential exposure risks for students through utilization of spatial buffering and overlay tools. Results indicate that 92.9% of TRI sites are located within one mile of a school, with 64 schools situated near multiple high-risk facilities. 
 
 ![LA TRI Facilities Overlayed over Areas within One Mile of a School](/Images/ToxicWaste1.png)
