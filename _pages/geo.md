@@ -22,6 +22,7 @@ title: Maps & Geospatial
 
 ![LA TRI Facilities Overlayed over Areas within One Mile of a School](/Images/ToxicWaste1.png)
 >Above: LA TRI Facilities Overlayed over Areas within One Mile of a School
+
 >Below: Significant Large TRI Emissions Site Count in Proximity to Schools (Torrance Highlight)
 ![Significant Large TRI Emissions Site Count in Proximity to Schools (Torrance Highlight)](/Images/ToxicWaste2.png)
 
