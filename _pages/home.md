@@ -44,7 +44,7 @@ title:
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Mathematics for Machine Learning: Linear Algebra
 * #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Intro to Augmented Reality & ARCore
 
-## ![Resume](/Resume.pdf)
+## [Resume](/Resume.pdf)
 
 ## Let's Connect and go for a bike ride!
 <a href="https://www.linkedin.com/in/benjaminshapiro1/" target="_blank">
