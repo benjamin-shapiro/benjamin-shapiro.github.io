@@ -1,7 +1,7 @@
 ---
 permalink: /Creative
 layout: page
-title:
+title: Creative
 ---
 
 * ### [Photography](https://bshapirophoto.com)
