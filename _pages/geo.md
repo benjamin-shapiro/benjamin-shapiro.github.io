@@ -1,7 +1,7 @@
 ---
 permalink: /Geo
 layout: page
-title:
+title: Maps and Geospatial
 ---
 
 * ### Yosemite National Park Map Replication and Enhancement
