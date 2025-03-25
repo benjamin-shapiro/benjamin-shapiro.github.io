@@ -1,7 +1,7 @@
 ---
 permalink: /Space
 layout: page
-title: Space
+title:
 ---
 
 * ### Light sail deployment simulation
