@@ -1,7 +1,7 @@
 ---
 permalink: /Finance
 layout: page
-title:
+title: Economics & Finance
 ---
 
 * ### NashCalc: The Most Intuitive Way to Game Theorize
