@@ -1,7 +1,7 @@
 ---
 permalink: /Publications
 layout: page
-title: Publications
+title:
 ---
 
 ## Papers
