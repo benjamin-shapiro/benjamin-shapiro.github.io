@@ -8,9 +8,9 @@ title:
 
 >Growing up in the beautiful US Virgin Islands, an astrophotographer on a healthy diet of Isaac Asimov and Arthur C. Clarke, I spent my nights looking skyward. When my home was ravaged by not one, but two hurricanes of near-biblical proportions, I felt an obligation to join the battle for our planet’s future. I found my calling in space.
 
->Today, as a space economist and aerospace professional with a strong background in data-centric technical initiatives and team projects across academia, government, and the commercial world, I am enthusiastic about harnessing space to bring tangible benefits to life on Earth. I am especially passionate about deploying space-derived data in tandem with finance to solve problems in climate, energy, national security, and space sustainability. 
+>Today, as a space economist and aerospace professional with a strong background in data-centric technical initiatives and team projects across academia, government, and the commercial world, I am enthusiastic about harnessing space to bring tangible benefits to life on Earth. I am especially passionate about deploying space-derived data in tandem with finance to solve problems relating to environmental resiliency, natural disaster response, energy, national security, and space sustainability. 
 
->Make yourself at home and stay a while -- enjoy! 
+>I hope you enjoy
 
 ## I'm currently thinking about
 * "Can I park here?" - Natural language processing to make sense of [LA parking signage](https://ktla.com/news/local-news/ridiculous-parking-signs-must-go-culver-city-mayor-says/) 
