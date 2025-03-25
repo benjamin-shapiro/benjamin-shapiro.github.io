@@ -1,7 +1,7 @@
 ---
 permalink: /AI
 layout: page
-title: AI
+title:
 ---
 
 * ### Wingman: Hazard Detection and Warning System for Cyclists 
