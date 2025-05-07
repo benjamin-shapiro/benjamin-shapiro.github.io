@@ -4,11 +4,6 @@ layout: page
 title: Maps & Geospatial
 ---
 
-* ### Yosemite National Park Map Replication and Enhancement
-  
-> Effort to reproduce and then enhance the symbology of Yosemite National Park's official map by highlighting iconic natural landmarks -- including mountain peaks, waterfalls, and granite domes -- previously understated due to generic and ambiguous representations. New icons and labeling schemes were introduced to emphasize the unique prominence of these features, improving map clarity, visitor orientation, and engagement with the park's landscape.
-<script type="module" src="https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js"></script><!-- Add custom element to <body> of your page --> <arcgis-embedded-map style="height:600px;width:700px;" item-id="ac23f352324f4eb7980c0ae88f2c9f35" theme="light" legend-enabled portal-url="https://uclageography.maps.arcgis.com" ></arcgis-embedded-map>
-
 * ### EO Unlocked: Metadata Search Engine for Earth Observation
   
 > User-centric innovation for Earth Observation, seeking to increase market transparency through “big metadata” analysis. Uses space situational awareness data from [Celestrak](https://celestrak.org/), propagated via [SGP4](https://en.wikipedia.org/wiki/Simplified_perturbations_models), and made searchable using an [R-Tree spatial index](https://en.wikipedia.org/wiki/R-tree). Search and filtering GUI developed in React and ThreeJS with the use of [Open-Meteo API](https://open-meteo.com/) for supplemental weather data. Sensor specifications for thousands of spacecraft mined from [ESA's eoPortal](https://www.eoportal.org/), [the World Meteorological Organization's "Oscar" Tool](https://space.oscar.wmo.int/), [Nanosats EU](https://www.nanosats.eu/), and [Gunter's Space Page](https://space.skyrocket.de/index.html). The unstructured data was then synthesized and organized programmatically using the [OpenAI API](https://openai.com/blog/openai-api). 
@@ -42,3 +37,8 @@ title: Maps & Geospatial
 ![Aromap Screenshot 1](/Images/Aromap1.png)
 
 ![Aromap Screenshot 2 (adding a smell)](/Images/Aromap2.png)
+
+* ### Yosemite National Park Map Replication and Enhancement
+  
+> Effort to reproduce and then enhance the symbology of Yosemite National Park's official map by highlighting iconic natural landmarks -- including mountain peaks, waterfalls, and granite domes -- previously understated due to generic and ambiguous representations. New icons and labeling schemes were introduced to emphasize the unique prominence of these features, improving map clarity, visitor orientation, and engagement with the park's landscape.
+<script type="module" src="https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js"></script><!-- Add custom element to <body> of your page --> <arcgis-embedded-map style="height:600px;width:700px;" item-id="ac23f352324f4eb7980c0ae88f2c9f35" theme="light" legend-enabled portal-url="https://uclageography.maps.arcgis.com" ></arcgis-embedded-map>
