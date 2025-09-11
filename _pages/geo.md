@@ -26,9 +26,27 @@ title: Maps & Geospatial
 ![Significant Large TRI Emissions Site Count in Proximity to Schools (Torrance Highlight)](/Images/ToxicWaste2.png)
 
 * ### California Wildfire Hazard and Insurance Stress Dashboard
-<p align="center">
-  <iframe width="1280" height="800" frameborder="0" allowfullscreen src="https://arcg.is/0Hyif4"></iframe>
-</p>
+<div style="text-align: center;">
+  <div class="container" style="display: inline-block;">
+    <iframe width="1280" height="800" frameborder="0" allowfullscreen src="https://arcg.is/0Hyif4"></iframe>
+  </div>
+</div>
+
+<style>
+  .container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;  /* 16:9 Aspect Ratio */
+  }
+  .container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>
 
 * ### Rising Sea Level Risks to Miami (2100 Inundation Projections)
 >Highlighting severe inundation risks to densely populated and economically vital areas in the city using projections from NASA and the Florida Climate Center. The results, derived from map algebra operations performed on a digital elevation model, visually emphasize increased vulnerability along low-lying coastal regions, particularly during storm surges and high-tide events, underscoring the urgent need for substantial mitigation efforts to protect Miami’s infrastructure and residents.
