@@ -25,6 +25,9 @@ title: Maps & Geospatial
 
 ![Significant Large TRI Emissions Site Count in Proximity to Schools (Torrance Highlight)](/Images/ToxicWaste2.png)
 
+* ### California Wildfire Hazard and Insurance Stress Dashboard
+<iframe width="1280" height="800" frameborder="0" allowfullscreen src="https://arcg.is/0Hyif4"></iframe>
+
 * ### Rising Sea Level Risks to Miami (2100 Inundation Projections)
 >Highlighting severe inundation risks to densely populated and economically vital areas in the city using projections from NASA and the Florida Climate Center. The results, derived from map algebra operations performed on a digital elevation model, visually emphasize increased vulnerability along low-lying coastal regions, particularly during storm surges and high-tide events, underscoring the urgent need for substantial mitigation efforts to protect Miami’s infrastructure and residents.
 
@@ -43,4 +46,3 @@ title: Maps & Geospatial
 > Effort to reproduce and then enhance the symbology of Yosemite National Park's official map by highlighting iconic natural landmarks -- including mountain peaks, waterfalls, and granite domes -- previously understated due to generic and ambiguous representations. New icons and labeling schemes were introduced to emphasize the unique prominence of these features, improving map clarity, visitor orientation, and engagement with the park's landscape.
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js"></script><!-- Add custom element to <body> of your page --> <arcgis-embedded-map style="height:600px;width:700px;" item-id="ac23f352324f4eb7980c0ae88f2c9f35" theme="light" legend-enabled portal-url="https://uclageography.maps.arcgis.com" ></arcgis-embedded-map>
 
-<iframe width="1280" height="800" frameborder="0" allowfullscreen src="https://arcg.is/0Hyif4"></iframe>
