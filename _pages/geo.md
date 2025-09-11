@@ -32,22 +32,6 @@ title: Maps & Geospatial
   </div>
 </div>
 
-<style>
-  .container {
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;  /* 16:9 Aspect Ratio */
-  }
-  .container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-  }
-</style>
-
 * ### Rising Sea Level Risks to Miami (2100 Inundation Projections)
 >Highlighting severe inundation risks to densely populated and economically vital areas in the city using projections from NASA and the Florida Climate Center. The results, derived from map algebra operations performed on a digital elevation model, visually emphasize increased vulnerability along low-lying coastal regions, particularly during storm surges and high-tide events, underscoring the urgent need for substantial mitigation efforts to protect Miami’s infrastructure and residents.
 
