@@ -42,9 +42,3 @@ title: Maps & Geospatial
 ![Aromap Screenshot 1](/Images/Aromap1.png)
 
 ![Aromap Screenshot 2 (adding a smell)](/Images/Aromap2.png)
-
-* ### Yosemite National Park Map Replication and Enhancement
-  
-> Effort to reproduce and then enhance the symbology of Yosemite National Park's official map by highlighting iconic natural landmarks -- including mountain peaks, waterfalls, and granite domes -- previously understated due to generic and ambiguous representations. New icons and labeling schemes were introduced to emphasize the unique prominence of these features, improving map clarity, visitor orientation, and engagement with the park's landscape.
-<script type="module" src="https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js"></script><!-- Add custom element to <body> of your page --> <arcgis-embedded-map style="height:600px;width:700px;" item-id="ac23f352324f4eb7980c0ae88f2c9f35" theme="light" legend-enabled portal-url="https://uclageography.maps.arcgis.com" ></arcgis-embedded-map>
-
