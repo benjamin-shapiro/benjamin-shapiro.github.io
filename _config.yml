@@ -17,3 +17,8 @@ include:
 
 exclude: 
     - README.md
+    - Gemfile
+    - Gemfile.lock
+    - .bundle/
+    - vendor/
+    - bin/

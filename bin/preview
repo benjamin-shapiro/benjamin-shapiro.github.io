@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd "$(dirname "$0")/.."
+
+export BUNDLE_APP_CONFIG="${BUNDLE_APP_CONFIG:-.bundle}"
+export BUNDLE_PATH="${BUNDLE_PATH:-vendor/bundle}"
+HOST="${HOST:-127.0.0.1}"
+PORT="${PORT:-4000}"
+
+bundle install
+
+args=(--incremental --host "$HOST" --port "$PORT")
+if [[ "${JEKYLL_LIVERELOAD:-0}" == "1" ]]; then
+  args+=(--livereload)
+  if [[ -n "${JEKYLL_LIVERELOAD_PORT:-}" ]]; then
+    args+=(--livereload-port "$JEKYLL_LIVERELOAD_PORT")
+  fi
+fi
+
+exec bundle exec jekyll serve "${args[@]}"
