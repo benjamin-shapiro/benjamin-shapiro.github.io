@@ -4,20 +4,34 @@ layout: page
 title: Economics & Finance
 ---
 
-* ### NashCalc: The Most Intuitive Way to Game Theorize
-  
->An intuitive interface designed to improve accessibility to and interactivity with algorithmic game theory libraries like [Gambit](https://gambitproject.readthedocs.io/en/latest/) and [Nashpy](https://nashpy.readthedocs.io/en/stable/) through modern web frameworks, reducing the field’s barriers to entry for students and researchers alike. Currently functional for two-player standard form games of NxN dimensions. 
+<nav class="page-subnav" aria-label="Finance projects">
+  <a class="page-subnav__link" href="#nashcalc">NashCalc</a>
+  <a class="page-subnav__link" href="#exchange-network">Exchange Network</a>
+</nav>
 
-![NashCalc Title Page](/Images/NashCalc1.png)
+<section class="project-section" id="nashcalc">
+  <h2 class="project-section__title">NashCalc: The Most Intuitive Way to Game Theorize</h2>
+  <p>
+    An intuitive interface designed to improve accessibility to and interactivity with algorithmic
+    game theory libraries like <a href="https://gambitproject.readthedocs.io/en/latest/">Gambit</a>
+    and <a href="https://nashpy.readthedocs.io/en/stable/">Nashpy</a> through modern web frameworks,
+    reducing the field's barriers to entry for students and researchers alike. Currently functional
+    for two-player standard form games of NxN dimensions.
+  </p>
 
-![NashCalc Functionality Recording](/Images/NashCalc2.gif)
+  <img src="/Images/NashCalc1.png" alt="NashCalc title page" loading="lazy" />
+  <img src="/Images/NashCalc2.gif" alt="NashCalc functionality recording" loading="lazy" />
+</section>
 
-* ### Financial Exchange Network Visualization and Analysis
- 
->Visualization generated with Python's NetworkX and Matplotlib using the [Bellman-Ford algorithm](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm) to identify negative cycles in the bidirected graphs of currency pairs.
+<section class="project-section" id="exchange-network">
+  <h2 class="project-section__title">Financial Exchange Network Visualization and Analysis</h2>
+  <p>
+    Visualization generated with Python's NetworkX and Matplotlib using the
+    <a href="https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm">Bellman-Ford algorithm</a>
+    to identify negative cycles in the bidirected graphs of currency pairs.
+  </p>
 
-![Exchange Visualization](/Images/Arbitrage1.jpg)
-
-![Exchange Visualization](/Images/Arbitrage2.jpg)
-
-![Exchange Visualization](/Images/Arbitrage3.jpg)
+  <img src="/Images/Arbitrage1.jpg" alt="Exchange visualization 1" loading="lazy" />
+  <img src="/Images/Arbitrage2.jpg" alt="Exchange visualization 2" loading="lazy" />
+  <img src="/Images/Arbitrage3.jpg" alt="Exchange visualization 3" loading="lazy" />
+</section>

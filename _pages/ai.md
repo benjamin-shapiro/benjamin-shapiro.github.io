@@ -4,24 +4,35 @@ layout: page
 title: AI
 ---
 
-* ### Wingman: Hazard Detection and Warning System for Cyclists 
-  
->A low-cost computer vision-based real-time hazard detection system for cyclists, empowering riders with enhanced situational awareness at 10% of the cost of leading LIDAR solutions. Uses [Kivy](https://kivy.org/) (mobile app GUI), the Arduino [ESP32-CAM](https://loboris.eu/ESP32/ESP32-CAM%20Product%20Specification.pdf) microcontroller (for rearward-facing video acquisition sent over wifi to the mobile device), a Python ML backend for object detection and classification using TensorFlow Lite and the [MobileNet vision model](https://arxiv.org/abs/1704.04861) plus a custom monocular distance estimation model trained using the [KITTI Vision Dataset](https://www.cvlibs.net/datasets/kitti/) via [XGBoost](https://xgboost.readthedocs.io/en/stable/) using an implementation from the [DisNet 2018 Paper](https://project.inria.fr/ppniv18/files/2018/10/paper22.pdf).
+<nav class="page-subnav" aria-label="AI projects">
+  <a class="page-subnav__link" href="#wingman">Wingman</a>
+  <a class="page-subnav__link" href="#profanity-filter">Profanity Filter</a>
+</nav>
 
-<a>
-  <img src="/Images/Wingman1.png" width="699" alt="Wingman Product Mockup and Poster" />
-</a>
-<a>
-  <img src="/Images/Wingman3.gif" width="699" alt="Wingman Bike, Arduino, and Phone Render" />
-</a>
-<a>
-  <img src="/Images/Wingman2.gif" width="699" alt="Wingman Arduino Render" />
-</a>
+<section class="project-section" id="wingman">
+  <h2 class="project-section__title">Wingman: Hazard Detection and Warning System for Cyclists</h2>
+  <p>
+    A low-cost hazard detection system for cyclists, designed to improve situational awareness
+    without the cost of lidar-heavy hardware. Uses <a href="https://kivy.org/">Kivy</a> for the
+    mobile app GUI, Arduino-based sensing hardware for rearward video acquisition, and a Python
+    edge-computing pipeline for computer vision, classification, and monocular distance estimation
+    using TensorFlow Lite, the <a href="https://arxiv.org/abs/1704.04861">MobileNet vision model</a>,
+    the <a href="https://www.cvlibs.net/datasets/kitti/">KITTI Vision Dataset</a>, and
+    <a href="https://xgboost.readthedocs.io/en/stable/">XGBoost</a> via an implementation from the
+    <a href="https://project.inria.fr/ppniv18/files/2018/10/paper22.pdf">DisNet 2018 paper</a>.
+  </p>
 
-* ### Real-Time Profanity Filtering in Audio
-  
->Low-latency profanity filter using the Google Cloud Speech-to-Text API with PyAudio and Python multiprocessing to manage parallel input and output audio streams.
+  <img src="/Images/Wingman1.png" alt="Wingman product mockup and poster" loading="lazy" />
+  <img src="/Images/Wingman3.gif" alt="Wingman bike, Arduino, and phone render" loading="lazy" />
+  <img src="/Images/Wingman2.gif" alt="Wingman Arduino render" loading="lazy" />
+</section>
 
-<a>
-  <img src="/Images/Profanity.png" width="699" alt="Profanity Icon" />
-</a>
+<section class="project-section" id="profanity-filter">
+  <h2 class="project-section__title">Real-Time Profanity Filtering in Audio</h2>
+  <p>
+    Low-latency profanity filter using the Google Cloud Speech-to-Text API with PyAudio and Python
+    multiprocessing to manage parallel input and output audio streams.
+  </p>
+
+  <img src="/Images/Profanity.png" alt="Profanity filtering icon" loading="lazy" />
+</section>

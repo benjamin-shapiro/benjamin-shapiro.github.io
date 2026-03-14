@@ -1,56 +1,110 @@
 ---
 permalink: /
-layout: page
-title:
+layout: home
+title: Home
 ---
 
-#### **Dear visitor, welcome to my portfolio!**
+<section class="hero">
+  <div>
+    <h1 class="hero__title">I build technical products for space, maps, and decision systems.</h1>
+  </div>
 
->Growing up in the beautiful US Virgin Islands, an astrophotographer on a healthy diet of Isaac Asimov and Arthur C. Clarke, I spent my nights looking skyward. When my home was ravaged by not one, but two hurricanes of near-biblical proportions, I felt an obligation to join the battle for our planet’s future. I found my calling in space.
+  <div class="hero__body">
+    <p>
+      My work spans Earth observation, climate resilience, financial analysis, and applied AI.
+      Outside of my day-to-day work, I gravitate toward spatial systems, technical research, and
+      decision support.
+    </p>
+    <p>
+      <strong>Currently exploring:</strong> urban systems, climate-aware mobility, spatial
+      representations of access, and more intuitive ways to work with Earth observation data.
+    </p>
+    <div class="hero__links">
+      <a class="inline-link" href="#selected-work">Selected work</a>
+      <a class="inline-link" href="/Publications">Writing</a>
+      <a class="inline-link" href="https://www.linkedin.com/in/benjaminshapiro1/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    </div>
+  </div>
+</section>
 
->Today, as a space economist and  technologist with a strong background in data-centric technical initiatives and team projects across academia, government, and the commercial world, I am enthusiastic about harnessing space to bring tangible benefits to life on Earth. I am especially passionate about deploying space-derived data in tandem with finance to solve problems relating to environmental resiliency, natural disaster response, energy, national security, and space sustainability. 
+<section class="section" id="selected-work">
+  <div class="section__header">
+    <h2 class="section__title">Selected work</h2>
+  </div>
 
->I hope you enjoy!
+  <div class="project-grid">
+    <a class="project-card" href="/Geo#eo-unlocked">
+      <div class="project-card__media">
+        <img src="/Images/EOUnlocked1.gif" alt="EO Unlocked Earth observation visualization" />
+      </div>
+      <div class="project-card__body">
+        <p class="project-card__eyebrow ui-label">Earth observation</p>
+        <h3 class="project-card__title">EO Unlocked</h3>
+        <p>An Earth observation interface for modeling interoperability opportunities across commercial and civil assets through astrodynamics, metadata synthesis, and spatial computation.</p>
+        <p class="project-card__meta ui-label">Astrodynamics, SGP4, spatial computation, React, ThreeJS, weather overlays</p>
+      </div>
+    </a>
 
-## I'm currently thinking about
-* "Can I park here?" - Natural language processing to make sense of [LA parking signage](https://ktla.com/news/local-news/ridiculous-parking-signs-must-go-culver-city-mayor-says/) 
-* Creating interactive art pieces -- 3D holographic representations of physical change on Earth -- using [light field printing](https://dl.acm.org/doi/10.1145/2929484.2929487) and reconstructions of [satellite imagery timelapses](https://earthengine.google.com/timelapse/), able to be created by anyone at home with a COTS printer 
-* Realtime [time-space cartograms](https://maps.vvolhejn.com/) that more accurately reflect travel difficulty over diverse terrain and traffic conditions for multiple modalities of transport
-* Global extension of [Barcelona's Cool Walks Application](https://cool.bcnregional.com/ 'Barcelona Cool Walks App') (pedestrian thermal comfort routing) using Streetview imagery-derived 3D representations of urban environments
-* Aeromate: "Your Personal Wind Tunnel", combining [Nvidia's Neurangelo](https://research.nvidia.com/labs/dir/neuralangelo/) Surface Reconstruction model with open source CFD to analyze the aerodynamic properties of any physical object from a standard RGB video
+    <a class="project-card" href="/Space#light-sail">
+      <div class="project-card__media">
+        <img src="/Images/AlphaAnim3.gif" alt="Light sail deployment simulation" />
+      </div>
+      <div class="project-card__body">
+        <p class="project-card__eyebrow ui-label">Space systems</p>
+        <h3 class="project-card__title">Light Sail Deployment Simulation</h3>
+        <p>Visualization work for Cornell Alpha CubeSat focused on on-orbit deployment and mission communication.</p>
+        <p class="project-card__meta ui-label">Unreal Engine, aerospace visualization</p>
+      </div>
+    </a>
 
-## Tech Competencies
+    <a class="project-card" href="/Geo#sea-level-rise">
+      <div class="project-card__media">
+        <img src="/Images/SeaLevelRise.png" alt="Sea level rise map of Miami" />
+      </div>
+      <div class="project-card__body">
+        <p class="project-card__eyebrow ui-label">Climate and mapping</p>
+        <h3 class="project-card__title">Rising Sea Level Risks to Miami</h3>
+        <p>Geospatial analysis highlighting projected inundation risk across economically and physically vulnerable areas.</p>
+        <p class="project-card__meta ui-label">DEM analysis, map algebra, climate projections</p>
+      </div>
+    </a>
 
-#### Web
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+    <a class="project-card" href="/AI#wingman">
+      <div class="project-card__media">
+        <img src="/Images/Wingman1.png" alt="Wingman cycling hazard detection system" />
+      </div>
+      <div class="project-card__body">
+        <p class="project-card__eyebrow ui-label">Applied AI</p>
+        <h3 class="project-card__title">Wingman</h3>
+        <p>A low-cost cyclist hazard detection system using edge computing, computer vision, and monocular distance estimation.</p>
+        <p class="project-card__meta ui-label">Arduino, computer vision, monocular distance estimation, edge computing</p>
+      </div>
+    </a>
+  </div>
+</section>
 
-#### Languages
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<section class="section">
+  <div class="section__header">
+    <h2 class="section__title">Selected writing</h2>
+  </div>
 
-#### Data & ML
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  <div class="writing-list">
+    <a class="writing-item" href="https://change.space" target="_blank" rel="noopener noreferrer">
+      <span class="writing-item__year ui-label">Current</span>
+      <span class="writing-item__title">Junior Fellowship at the Institute of Space Commerce</span>
+      <span class="writing-item__source ui-label">Institute of Space Commerce</span>
+    </a>
 
-## Additional Coursework
+    <a class="writing-item" href="https://isulibrary.isunet.edu/index.php?lvl=notice_display&id=11819" target="_blank" rel="noopener noreferrer">
+      <span class="writing-item__year ui-label">2023</span>
+      <span class="writing-item__title">Commercial Space Station Feasibility Study</span>
+      <span class="writing-item__source ui-label">International Space University</span>
+    </a>
 
-* #### <img src="https://learn.deeplearning.ai/assets/dlai-logo.png" width="115" height="25" /> Prompt Engineering
-* #### <img src="https://learn.deeplearning.ai/assets/dlai-logo.png" width="115" height="25" /> Building Systems with ChatGPT
-* #### <img src="https://learn.deeplearning.ai/assets/dlai-logo.png" width="115" height="25" /> LangChain
-* #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) The Finance of Climate Change
-* #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Private Equity & Venture Capital
-* #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Forensic Accounting & Fraud Examination
-* #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Decentralized Finance (4 Course) Specialization
-* #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Blockchain Basics
-* #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Mathematics for Machine Learning: Linear Algebra
-* #### ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Intro to Augmented Reality & ARCore
-
-## Let's Connect and go for a bike ride!
-<a href="https://www.linkedin.com/in/benjaminshapiro1/" target="_blank">
-  <img src="/Images/Linkedin.png" width="50" height="50" alt="LinkedIn" />
-</a>
-<a href="https://github.com/benjamin-shapiro" target="_blank">
-  <img src="/Images/Github.png" width="50" height="50" alt="GitHub" />
-</a>
-<a href="https://www.strava.com/athletes/6805827" target="_blank">
-  <img src="/Images/Strava.png" width="50" height="50" alt="Strava" />
-</a>
+    <a class="writing-item" href="https://isulibrary.isunet.edu/index.php?lvl=notice_display&id=11027#" target="_blank" rel="noopener noreferrer">
+      <span class="writing-item__year ui-label">2020</span>
+      <span class="writing-item__title">The Role of Space During Pandemics</span>
+      <span class="writing-item__source ui-label">International Space University</span>
+    </a>
+  </div>
+</section>
