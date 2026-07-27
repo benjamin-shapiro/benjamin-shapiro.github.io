@@ -6,7 +6,7 @@ title: Photography
 
 
 <section class="project-section" id="photography">
-  <p>
+  <p class="photo-intro">
     More of my astro, wildlife, and travel photography at
     <a href="https://bshapirophoto.com">bshapirophoto.com</a>.
   </p>

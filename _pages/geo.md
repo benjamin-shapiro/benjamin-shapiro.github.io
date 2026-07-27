@@ -14,6 +14,7 @@ title: Geospatial
 
 <section class="project-section" id="eo-unlocked">
   <h2 class="project-section__title">EO Unlocked: Metadata Search Engine for Earth Observation</h2>
+  <a class="live-demo-link ui-label" href="https://eo-unlocked.onrender.com" target="_blank" rel="noopener noreferrer">Live demo</a>
   <p>
     User-centric Earth observation discovery interface built to model virtual constellations and
     interoperability opportunities across commercial and civil assets through large-scale metadata synthesis.

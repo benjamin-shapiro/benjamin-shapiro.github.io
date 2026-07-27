@@ -49,17 +49,18 @@ title: Home
   </div>
 
   <div class="project-grid">
-    <a class="project-card" href="https://eo-unlocked.onrender.com" target="_blank" rel="noopener noreferrer">
-      <div class="project-card__media">
+    <article class="project-card">
+      <a class="project-card__media" href="/Geo#eo-unlocked" aria-label="View the EO Unlocked project">
         <img src="/Images/EOUnlocked1.gif" alt="EO Unlocked Earth observation visualization" />
-      </div>
+      </a>
       <div class="project-card__body">
         <p class="project-card__eyebrow ui-label">Earth observation</p>
-        <h3 class="project-card__title">EO Unlocked</h3>
+        <h3 class="project-card__title"><a href="/Geo#eo-unlocked">EO Unlocked</a></h3>
         <p>User-centric Earth observation discovery interface built to model virtual constellations and interoperability opportunities across commercial and civil assets through large-scale metadata synthesis.</p>
+        <a class="live-demo-link ui-label" href="https://eo-unlocked.onrender.com" target="_blank" rel="noopener noreferrer">Live demo</a>
         <p class="project-card__meta ui-label">Astrodynamics, SGP4, spatial computation, React, ThreeJS</p>
       </div>
-    </a>
+    </article>
 
     <a class="project-card" href="/AI#wingman">
       <div class="project-card__media project-card__media--contain">
@@ -99,16 +100,20 @@ title: Home
 
     <a class="project-card project-card--centered" href="https://bshapirophoto.com/astro" target="_blank" rel="noopener noreferrer">
       <div class="project-card__media project-card__mosaic" role="img" aria-label="Mosaic of Benjamin Shapiro astrophotography">
-        <img src="/Images/AstroStarTrails.jpg" alt="" loading="lazy" />
-        <img src="/Images/AstroMilkyWay.jpg" alt="" loading="lazy" />
-        <img src="/Images/AstroEclipse.jpg" alt="" loading="lazy" />
-        <img src="/Images/AstroLightPainting.jpg" alt="" loading="lazy" />
+        <div class="project-card__mosaic-row project-card__mosaic-row--top">
+          <img src="/Images/AstroStarTrails.jpg" alt="" loading="lazy" />
+          <img src="/Images/AstroMilkyWay.jpg" alt="" loading="lazy" />
+        </div>
+        <div class="project-card__mosaic-row project-card__mosaic-row--bottom">
+          <img src="/Images/AstroEclipse.jpg" alt="" loading="lazy" />
+          <img src="/Images/AstroLightPainting.jpg" alt="" loading="lazy" />
+        </div>
       </div>
       <div class="project-card__body">
         <p class="project-card__eyebrow ui-label">Photography</p>
         <h3 class="project-card__title">Astrophotography</h3>
         <p>Night-sky photography from my travels, capturing eclipses, star fields, and the Milky Way across remote landscapes.</p>
-        <p class="project-card__meta ui-label">Long-exposure photography, low-light composition, night-sky imaging, post-processing</p>
+        <p class="project-card__meta ui-label">Long-exposure photography, low-light composition, field technique, post-processing</p>
       </div>
     </a>
   </div>

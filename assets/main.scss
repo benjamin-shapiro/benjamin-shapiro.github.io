@@ -268,17 +268,34 @@ iframe {
 
 .project-card__mosaic {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  grid-template-rows: repeat(2, minmax(0, 1fr));
-  gap: 3px;
-  padding: 3px;
+  grid-template-rows: minmax(0, 41.3fr) minmax(0, 58.7fr);
+  aspect-ratio: 7 / 5;
+  gap: 0;
+  padding: 0;
   background: #080b10;
+}
+
+.project-card__mosaic-row {
+  display: grid;
+  min-width: 0;
+  min-height: 0;
+  gap: 0;
+  overflow: hidden;
+}
+
+.project-card__mosaic-row--top {
+  grid-template-columns: minmax(0, 43fr) minmax(0, 57fr);
+}
+
+.project-card__mosaic-row--bottom {
+  grid-template-columns: minmax(0, 56fr) minmax(0, 44fr);
 }
 
 .project-card__mosaic img {
   min-width: 0;
+  min-height: 0;
   background: #080b10;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 .project-card__body {
@@ -303,6 +320,38 @@ iframe {
 .project-card__text-link:focus-visible {
   color: var(--ink);
 }
+
+.live-demo-link {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  gap: 0.45em;
+  padding: 1px 0 3px;
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--line-strong);
+  transition: border-color 160ms ease, color 160ms ease;
+}
+
+.prose .live-demo-link {
+  text-decoration: none;
+}
+
+.project-section > .live-demo-link {
+  margin: 0 0 1.2rem;
+}
+
+.live-demo-link::after {
+  content: "↗";
+  font-size: 0.9em;
+  line-height: 1;
+}
+
+.live-demo-link:hover,
+.live-demo-link:focus-visible {
+  border-color: var(--ink);
+}
+
 .project-card__body p:last-of-type,
 .project-card__meta {
   margin: 0;
@@ -489,6 +538,14 @@ iframe {
   line-height: 1.55;
 }
 
+.photo-intro a,
+.photo-strip__note a {
+  -webkit-text-decoration-skip: none;
+  text-decoration-skip-ink: none;
+  text-underline-offset: 0.18em;
+}
+
+
 @media (max-width: 960px) {
   .hero,
   .project-grid,
@@ -556,6 +613,13 @@ iframe {
   .section {
     padding-top: 44px;
   }
+
+  .photo-strip {
+    gap: 12px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
 
   iframe {
     min-height: 420px;
