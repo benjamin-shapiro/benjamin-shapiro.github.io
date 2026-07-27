@@ -13,7 +13,7 @@ title: AI
   <h2 class="project-section__title">Wingman: Hazard Detection and Warning System for Cyclists</h2>
   <p>
     A low-cost hazard detection system for cyclists, designed to improve situational awareness
-    without the cost of lidar-heavy hardware. Uses <a href="https://kivy.org/">Kivy</a> for the
+    without the need for expensive RADAR-based hardware. Uses <a href="https://kivy.org/">Kivy</a> for the
     mobile app GUI, Arduino-based sensing hardware for rearward video acquisition, and a Python
     edge-computing pipeline for computer vision, classification, and monocular distance estimation
     using TensorFlow Lite, the <a href="https://arxiv.org/abs/1704.04861">MobileNet vision model</a>,

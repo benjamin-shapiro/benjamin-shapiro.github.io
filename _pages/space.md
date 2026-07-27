@@ -5,12 +5,12 @@ title: Space
 ---
 
 <nav class="page-subnav" aria-label="Space projects">
-  <a class="page-subnav__link" href="#light-sail">Light Sail</a>
+  <a class="page-subnav__link" href="#light-sail">LightSail</a>
   <a class="page-subnav__link" href="#cloud-cover">Cloud Cover Detection</a>
 </nav>
 
 <section class="project-section" id="light-sail">
-  <h2 class="project-section__title">Light sail deployment simulation</h2>
+  <h2 class="project-section__title">LightSail Deployment Sim</h2>
   <p>
     Simulation of on-orbit free-flying light sail deployment from the
     <a href="https://alphacubesat.cornell.edu/index.html">Cornell Alpha CubeSat</a>, developed and
