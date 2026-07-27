@@ -57,7 +57,7 @@ title: Home
         <p class="project-card__eyebrow ui-label">Earth observation</p>
         <h3 class="project-card__title">EO Unlocked</h3>
         <p>User-centric Earth observation discovery interface built to model virtual constellations and interoperability opportunities across commercial and civil assets through large-scale metadata synthesis.</p>
-        <p class="project-card__meta ui-label">Virtual constellation modeling, astrodynamics, SGP4, spatial computation, React, ThreeJS</p>
+        <p class="project-card__meta ui-label">Astrodynamics, SGP4, spatial computation, React, ThreeJS</p>
       </div>
     </a>
 
@@ -94,6 +94,21 @@ title: Home
         <h3 class="project-card__title">Aromap: The Olfactory Social Network</h3>
         <p>Track and report smells around your area. Smell something stinky? Report it. Smell something heavenly and want others to experience it? Enlighten your friends. In a world where smells are our most dear sense, Aromap is your guiding light.</p>
         <p class="project-card__meta ui-label">Crowdsourced mapping, geolocation, social discovery</p>
+      </div>
+    </a>
+
+    <a class="project-card project-card--centered" href="https://bshapirophoto.com/astro" target="_blank" rel="noopener noreferrer">
+      <div class="project-card__media project-card__mosaic" role="img" aria-label="Mosaic of Benjamin Shapiro astrophotography">
+        <img src="/Images/AstroStarTrails.jpg" alt="" loading="lazy" />
+        <img src="/Images/AstroMilkyWay.jpg" alt="" loading="lazy" />
+        <img src="/Images/AstroEclipse.jpg" alt="" loading="lazy" />
+        <img src="/Images/AstroLightPainting.jpg" alt="" loading="lazy" />
+      </div>
+      <div class="project-card__body">
+        <p class="project-card__eyebrow ui-label">Photography</p>
+        <h3 class="project-card__title">Astrophotography</h3>
+        <p>A selection of night-sky photography spanning star trails, eclipses, and the Milky Way.</p>
+        <p class="project-card__meta ui-label">Long exposure, field photography, image processing</p>
       </div>
     </a>
   </div>
