@@ -113,7 +113,7 @@ title: Home
         <p class="project-card__eyebrow ui-label">Photography</p>
         <h3 class="project-card__title">Astrophotography</h3>
         <p>Night-sky photography from my travels, capturing eclipses, star fields, and the Milky Way across remote landscapes.</p>
-        <p class="project-card__meta ui-label">Long-exposure photography, low-light composition, field technique, post-processing</p>
+        <p class="project-card__meta ui-label">Long-exposure photography, low-light composition, post-processing</p>
       </div>
     </a>
   </div>
