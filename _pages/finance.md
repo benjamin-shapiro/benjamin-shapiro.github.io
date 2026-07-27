@@ -6,7 +6,7 @@ title: Economics & Finance
 
 <nav class="page-subnav" aria-label="Finance projects">
   <a class="page-subnav__link" href="#nashcalc">NashCalc</a>
-  <a class="page-subnav__link" href="#exchange-network">Exchange Network</a>
+  <a class="page-subnav__link" href="#exchange-network">Financial Network Viz</a>
 </nav>
 
 <section class="project-section" id="nashcalc">
@@ -24,7 +24,7 @@ title: Economics & Finance
 </section>
 
 <section class="project-section" id="exchange-network">
-  <h2 class="project-section__title">Financial Exchange Network Visualization and Analysis</h2>
+  <h2 class="project-section__title">Financial Network Viz</h2>
   <p>
     Visualization generated with Python's NetworkX and Matplotlib using the
     <a href="https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm">Bellman-Ford algorithm</a>

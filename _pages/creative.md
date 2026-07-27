@@ -4,14 +4,11 @@ layout: page
 title: Creative
 ---
 
-<nav class="page-subnav" aria-label="Creative projects">
-  <a class="page-subnav__link" href="#photography">Photography</a>
-</nav>
 
 <section class="project-section" id="photography">
-  <h2 class="project-section__title"><a href="https://bshapirophoto.com">Photography</a></h2>
+  <h2 class="project-section__title">Photography</h2>
   <p>
-    More astro, wildlife, and travel photography lives at
+    More of my astro, wildlife, and travel photography at
     <a href="https://bshapirophoto.com">bshapirophoto.com</a>.
   </p>
 

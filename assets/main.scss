@@ -133,7 +133,7 @@ iframe {
   display: grid;
   grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.72fr);
   gap: 44px;
-  align-items: end;
+  align-items: start;
   padding: 22px 0 56px;
   border-bottom: 1px solid var(--line);
 }
@@ -163,7 +163,7 @@ iframe {
 .hero__body {
   display: grid;
   gap: 18px;
-  padding-bottom: 6px;
+  padding-top: 5px;
 }
 
 .hero__body p {
@@ -278,10 +278,6 @@ iframe {
 
 .site-footer__inner {
   display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  gap: 18px;
   padding-top: 18px;
   border-top: 1px solid var(--line-strong);
 }

@@ -1,10 +1,10 @@
 ---
 permalink: /Geo
 layout: page
-title: Maps & Geospatial
+title: Geospatial
 ---
 
-<nav class="page-subnav" aria-label="Geo projects">
+<nav class="page-subnav" aria-label="Geospatial projects">
   <a class="page-subnav__link" href="#eo-unlocked">EO Unlocked</a>
   <a class="page-subnav__link" href="#toxic-waste">Toxic Waste</a>
   <a class="page-subnav__link" href="#wildfire-insurance">Wildfire + Insurance</a>
