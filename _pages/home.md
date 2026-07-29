@@ -93,7 +93,7 @@ title: Home
       <div class="project-card__body">
         <p class="project-card__eyebrow ui-label">Geospatial</p>
         <h3 class="project-card__title">Aromap: The Olfactory Social Network</h3>
-        <p>Track and report smells around your area. Smell something stinky? Report it. Smell something heavenly and want others to experience it? Enlighten your friends. In a world where smells are our most dear sense, Aromap is your guiding light.</p>
+        <p>Track smells around your area. Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends. In a world where smells are our most dear sense, Aromap is your guiding light.</p>
         <p class="project-card__meta ui-label">Crowdsourced mapping, geolocation, social discovery</p>
       </div>
     </a>

@@ -81,7 +81,7 @@ title: Geospatial
 <section class="project-section" id="aromap">
   <h2 class="project-section__title">Aromap: The Olfactory Social Network</h2>
   <p>
-    Track and report smells around your area. Smell something stinky? Report it. Smell something
+    Track smells around your area. Smell something stinky? Report it! Smell something
     heavenly and want others to experience it? Enlighten your friends. In a world where smells are
     our most dear sense, Aromap is your guiding light.
   </p>

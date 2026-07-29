@@ -14,9 +14,11 @@ title: Space
   <p>
     Simulation of on-orbit free-flying light sail deployment from the
     <a href="https://alphacubesat.cornell.edu/index.html">Cornell Alpha CubeSat</a>, developed and
-    choreographed in Unreal Engine 4. Alpha will carry the world's first retroreflective,
-    solo-flying light sail and become the trailblazer for future missions to our nearest stellar
-    neighbor, Alpha Centauri.
+    choreographed in Unreal Engine 4. Alpha was deployed from the ISS via Nanoracks in late 2025,
+    carrying the world's first retroreflective, free-flying light sail and becoming a trailblazer
+    for future missions to our nearest stellar neighbor, Alpha Centauri. Alpha concluded mission
+    ops in early 2026, with a follow-on in the pipeline at the
+    <a href="https://www.spacecraftresearch.com">Space Systems Design Studio</a>.
   </p>
 
   <a href="https://youtu.be/5sR2MDufFdQ" target="_blank" rel="noopener noreferrer">
@@ -56,8 +58,10 @@ title: Space
     not?).
   </p>
 
-  <img src="/Images/Countdown.png" alt="Countdown Institute logo" loading="lazy" />
-  <img src="/Images/ArdusatLinReg.png" alt="Data output with linear regression best fit" loading="lazy" />
+  <div class="project-image-row">
+    <img src="/Images/Countdown.png" alt="Countdown Institute logo" loading="lazy" />
+    <img src="/Images/ArdusatLinReg.png" alt="Data output with linear regression best fit" loading="lazy" />
+  </div>
 
   <p>
     My teammate and I delivered our findings to the local Miami tech community with the Countdown
