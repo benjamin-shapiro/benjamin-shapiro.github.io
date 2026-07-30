@@ -26,7 +26,7 @@ title: Photography
   </div>
 
   <p class="photo-strip__note">
-    "Eyes in a Green Ocean" (center) won first place in the 2018 Cornell Institute for Healthy Futures
+    "Eyes in a Green Ocean" (middle) won first place in the 2018 Cornell Institute for Healthy Futures
     <a href="https://ihf.cornell.edu/news-events/student-competitions/">Healing Through Photography Competition</a>.
   </p>
 </section>

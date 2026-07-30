@@ -28,7 +28,7 @@ title: Economics & Finance
   <p>
     Visualization generated with Python's NetworkX and Matplotlib using the
     <a href="https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm">Bellman-Ford algorithm</a>
-    to identify negative cycles in the bidirected graphs of currency pairs.
+    to identify negative cycles in the bidirected graphs of currency pairs and surface arbitrage opportunities within and across exchanges.
   </p>
 
   <img src="/Images/Arbitrage1.jpg" alt="Exchange visualization 1" loading="lazy" />

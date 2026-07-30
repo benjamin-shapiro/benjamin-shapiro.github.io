@@ -550,7 +550,7 @@ iframe {
   margin: 0;
   border: 0;
   object-fit: contain;
-  background: #10141a;
+  background: var(--surface);
 }
 
 .project-section .photo-strip__note {
