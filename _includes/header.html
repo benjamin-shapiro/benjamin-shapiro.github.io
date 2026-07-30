@@ -11,6 +11,7 @@
           {%- if my_page.title -%}
             {%- assign nav_label = my_page.title -%}
             {%- case my_page.url -%}
+              {%- when "/" -%}{%- assign nav_label = "Home" -%}
               {%- when "/Geo" -%}{%- assign nav_label = "Geospatial" -%}
               {%- when "/Finance" -%}{%- assign nav_label = "Finance" -%}
               {%- when "/Publications" -%}{%- assign nav_label = "Writing" -%}

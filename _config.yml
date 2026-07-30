@@ -1,5 +1,7 @@
 title: Benjamin Shapiro
-description: Portfolio
+description: Benjamin Shapiro's portfolio of projects spanning space systems, Earth observation, climate resilience, applied AI, financial analysis, and photography.
+url: https://benjamin-shapiro.github.io
+baseurl: ""
 theme: minima
 
 # Minima: custom header links

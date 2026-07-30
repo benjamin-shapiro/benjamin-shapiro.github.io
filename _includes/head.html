@@ -2,12 +2,18 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="YEIEdc257VDZDn_Xa797k5Vkl8TNc9Sgsq29VJZTpKk">
   <meta name="theme-color" content="#171717">
   <link rel="icon" href="{{ "/favicon.svg" | relative_url }}" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-  {%- seo -%}
+  {%- if page.seo_title -%}
+    <title>{{ page.seo_title | escape }}</title>
+    {%- seo title=false -%}
+  {%- else -%}
+    {%- seo -%}
+  {%- endif -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}

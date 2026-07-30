@@ -1,7 +1,9 @@
 ---
 permalink: /
 layout: home
-title: Home
+title: Benjamin Shapiro's Portfolio
+seo_title: Benjamin Shapiro's Portfolio
+description: Benjamin Shapiro's portfolio of projects spanning space systems, Earth observation, climate resilience, applied AI, financial analysis, and photography.
 ---
 
 <section class="hero">
