@@ -399,41 +399,6 @@ iframe {
   font-size: 0.95rem;
 }
 
-.project-facts {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  max-width: 44rem;
-  margin: 1.35rem 0 0;
-  border-top: 1px solid var(--line-strong);
-  border-bottom: 1px solid var(--line);
-}
-
-.project-facts > div {
-  display: grid;
-  gap: 0.15rem;
-  padding: 0.85rem 1rem 0.9rem 0;
-}
-
-.project-facts > div + div {
-  padding-left: 1rem;
-  border-left: 1px solid var(--line);
-}
-
-.project-facts strong {
-  color: var(--ink);
-  font-size: 1.08rem;
-  font-weight: 600;
-  letter-spacing: -0.02em;
-}
-
-.project-facts span {
-  color: var(--muted);
-  font-family: "IBM Plex Mono", monospace;
-  font-size: 0.68rem;
-  letter-spacing: 0.055em;
-  text-transform: uppercase;
-}
-
 .cartogram-project-shell {
   width: min(100%, var(--site-width));
   margin: 0 auto;
@@ -563,6 +528,10 @@ iframe {
 .project-section iframe,
 .photo-strip {
   margin: 1.3rem 0;
+}
+
+.project-section .cartogram-preview {
+  width: 100%;
 }
 
 .project-image-row {
@@ -754,16 +723,6 @@ iframe {
     gap: 12px;
     margin-top: 1rem;
     margin-bottom: 1rem;
-  }
-
-  .project-facts {
-    grid-template-columns: 1fr;
-  }
-
-  .project-facts > div + div {
-    padding-left: 0;
-    border-top: 1px solid var(--line);
-    border-left: 0;
   }
 
   .cartogram-project-shell {
