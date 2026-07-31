@@ -36,7 +36,7 @@ body_class: cartogram-project
       <button type="button" class="btn la-play" id="la-play-8f31c" aria-pressed="false" aria-controls="la-time-8f31c">Play</button>
       <div class="la-time-control">
         <div class="la-time-heading">
-          <label class="la-control-label text-small" for="la-time-8f31c">Typical weekday · five-minute median</label>
+          <label class="la-control-label text-small" for="la-time-8f31c">Typical weekday</label>
           <output id="la-time-output-8f31c" for="la-time-8f31c">3:00 AM</output>
         </div>
         <input id="la-time-8f31c" class="form-range" type="range" min="0" max="287" step="1" value="0"
@@ -52,14 +52,14 @@ body_class: cartogram-project
       </label>
       <button type="button" class="btn btn-ghost" id="la-reset-8f31c">Reset to DTLA</button>
     </div>
-    <div id="la-readout-8f31c" class="la-readout text-small" aria-live="polite"></div>
+    <div id="la-status-8f31c" class="la-status text-small" aria-live="polite"></div>
   </div>
 
   <div class="la-maps">
     <figure class="la-panel">
       <figcaption>
         <span>GEOGRAPHY</span>
-        <span class="text-muted">OSM freeway skeleton · observed speed</span>
+        <span class="text-muted">actual distance</span>
       </figcaption>
       <svg id="la-geo-8f31c" class="la-map" viewBox="0 0 420 360" role="img" aria-labelledby="la-geo-title-8f31c la-geo-desc-8f31c">
         <title id="la-geo-title-8f31c">Geographic Los Angeles freeway network</title>
@@ -84,7 +84,7 @@ body_class: cartogram-project
     <figure class="la-panel">
       <figcaption>
         <span>TIME SPACE</span>
-        <span id="la-warp-label-8f31c" class="text-muted">outbound from DTLA</span>
+        <span id="la-warp-label-8f31c" class="text-muted">from DTLA · 3:00 AM</span>
       </figcaption>
       <svg id="la-warp-8f31c" class="la-map" viewBox="0 0 420 360" role="img" aria-labelledby="la-warp-title-8f31c la-warp-desc-8f31c">
         <title id="la-warp-title-8f31c">Freeway-mediated time-space cartogram</title>
@@ -115,26 +115,34 @@ body_class: cartogram-project
     </figure>
   </div>
 
-  <div class="la-foot text-small">
-    <div class="la-legend" aria-label="Delay and confidence legend">
-      <span><i class="la-swatch" data-swatch="free"></i>overnight</span>
-      <span><i class="la-swatch" data-swatch="mid"></i>+15 min</span>
-      <span><i class="la-swatch" data-swatch="slow"></i>+30 min</span>
-      <span><i class="la-baseline-key"></i>3 AM outline</span>
-      <span><i class="la-hatch-key"></i>lower confidence</span>
+  <div class="la-info text-small">
+    <div class="la-info-actions" aria-label="More cartogram information">
+      <button type="button" class="la-info-button" aria-expanded="false" aria-controls="la-details-panel-8f31c">Details</button>
+      <button type="button" class="la-info-button" aria-expanded="false" aria-controls="la-legend-panel-8f31c">Legend</button>
+      <button type="button" class="la-info-button" aria-expanded="false" aria-controls="la-about-panel-8f31c">About</button>
     </div>
-    <div class="text-muted">
-      Median at each five-minute clock time across 85 weekdays · METR-LA, Mar–Jun 2012 ·
-      <a href="https://github.com/liyaguang/DCRNN" target="_blank" rel="noreferrer">Caltrans PeMS / DCRNN</a> ·
-      <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">© OpenStreetMap contributors</a>
-    </div>
+    <section id="la-details-panel-8f31c" class="la-info-panel" hidden>
+      <div id="la-readout-8f31c" class="la-readout"></div>
+    </section>
+    <section id="la-legend-panel-8f31c" class="la-info-panel" hidden>
+      <div class="la-legend" aria-label="Delay and confidence legend">
+        <span><i class="la-swatch" data-swatch="free"></i>overnight</span>
+        <span><i class="la-swatch" data-swatch="mid"></i>+15 min</span>
+        <span><i class="la-swatch" data-swatch="slow"></i>+30 min</span>
+        <span><i class="la-baseline-key"></i>3 AM outline</span>
+        <span><i class="la-hatch-key"></i>lower confidence</span>
+      </div>
+    </section>
+    <section id="la-about-panel-8f31c" class="la-info-panel" hidden>
+      <p>
+        Historical weekday medians, not live traffic. Each five-minute clock time is the median across 85 weekdays in Mar–Jun 2012. Freeway routes use a directed OpenStreetMap graph; local access is estimated at 15 mph with circuity and a terminal penalty. The 3:00 AM outline and minute scale remain fixed as time changes. Hatching marks sparse sensor coverage.
+      </p>
+      <p class="text-muted">
+        Sources: <a href="https://github.com/liyaguang/DCRNN" target="_blank" rel="noreferrer">Caltrans PeMS / METR-LA / DCRNN</a> ·
+        <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">© OpenStreetMap contributors</a>
+      </p>
+    </section>
   </div>
-  <details class="la-method text-small">
-    <summary>Method + assumptions</summary>
-    <p>
-      Historical weekday medians, not live traffic. Routes use the directed freeway graph and eight route-and-direction-diverse entry and exit ramps per catchment. Because this OSM snapshot contains only freeways and ramps, surface access is modeled at 15 mph with 1.25× circuity and a 2.5-minute terminal penalty; tooltips also show a 20 mph optimistic floor. Extreme freeway detours are rejected. Hatching marks sparse geographic coverage; “sensor completeness” only describes the available readings at that clock time. The 3:00 AM outline and minute scale stay fixed while time changes, and within-catchment travel is not modeled.
-    </p>
-  </details>
   <div id="la-tip-8f31c" class="tooltip la-tip" hidden></div>
 </div>
 
@@ -322,7 +330,8 @@ body_class: cartogram-project
   #la-tsc-8f31c .la-control-label,
   #la-tsc-8f31c .la-origin-label,
   #la-tsc-8f31c figcaption,
-  #la-tsc-8f31c .la-foot,
+  #la-tsc-8f31c .la-status,
+  #la-tsc-8f31c .la-info,
   #la-tsc-8f31c .la-readout,
   #la-tsc-8f31c .la-map text {
     font-family: "IBM Plex Mono", monospace;
@@ -354,12 +363,18 @@ body_class: cartogram-project
     outline-offset: 2px;
   }
 
+  #la-tsc-8f31c .la-status,
   #la-tsc-8f31c .la-readout {
     min-height: 1.35em;
     color: var(--muted-foreground);
     font-variant-numeric: tabular-nums;
   }
 
+  #la-tsc-8f31c .la-status {
+    text-align: right;
+  }
+
+  #la-tsc-8f31c .la-status strong,
   #la-tsc-8f31c .la-readout strong {
     color: var(--foreground);
     font-weight: 500;
@@ -550,39 +565,55 @@ body_class: cartogram-project
     stroke-width: 3;
   }
 
-  #la-tsc-8f31c .la-foot {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-between;
-    gap: 0.65rem 1rem;
+  #la-tsc-8f31c .la-info {
     margin-top: 0.65rem;
   }
 
-  #la-tsc-8f31c .la-method {
-    margin-top: 0.55rem;
-    padding-top: 0.5rem;
-    border-top: 1px solid var(--line);
+  #la-tsc-8f31c .la-info-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.9rem;
+  }
+
+  #la-tsc-8f31c .la-info-button {
+    padding: 0;
+    border: 0;
+    border-radius: 0;
     color: var(--muted-foreground);
-    font-family: "IBM Plex Mono", monospace;
-  }
-
-  #la-tsc-8f31c .la-method summary {
-    width: max-content;
+    background: transparent;
+    font: inherit;
     cursor: pointer;
-    color: var(--ink);
-    list-style-position: outside;
+    text-decoration: underline;
+    text-decoration-color: transparent;
+    text-underline-offset: 0.22em;
   }
 
-  #la-tsc-8f31c .la-method summary:focus-visible {
+  #la-tsc-8f31c .la-info-button:hover,
+  #la-tsc-8f31c .la-info-button[aria-expanded="true"] {
+    color: var(--foreground);
+    text-decoration-color: currentColor;
+  }
+
+  #la-tsc-8f31c .la-info-button:focus-visible {
     outline: 1px solid var(--ink);
     outline-offset: 3px;
   }
 
-  #la-tsc-8f31c .la-method p {
+  #la-tsc-8f31c .la-info-panel {
+    margin-top: 0.55rem;
+    padding-top: 0.55rem;
+    border-top: 1px solid var(--line);
+    color: var(--muted-foreground);
+  }
+
+  #la-tsc-8f31c .la-info-panel p {
     max-width: 78ch;
-    margin: 0.45rem 0 0;
+    margin: 0;
     line-height: 1.55;
+  }
+
+  #la-tsc-8f31c .la-info-panel p + p {
+    margin-top: 0.45rem;
   }
 
   #la-tsc-8f31c .la-legend {
@@ -661,6 +692,14 @@ body_class: cartogram-project
 
     #la-tsc-8f31c figcaption {
       flex-wrap: wrap;
+    }
+
+    #la-tsc-8f31c .la-status {
+      text-align: left;
+    }
+
+    #la-tsc-8f31c .la-info-actions {
+      justify-content: flex-start;
     }
   }
 
@@ -747,7 +786,10 @@ body_class: cartogram-project
   const timeOutput = root.querySelector("#la-time-output-8f31c");
   const playButton = root.querySelector("#la-play-8f31c");
   const playStatus = root.querySelector("#la-play-status-8f31c");
+  const statusLine = root.querySelector("#la-status-8f31c");
   const readout = root.querySelector("#la-readout-8f31c");
+  const infoButtons = Array.from(root.querySelectorAll(".la-info-button"));
+  const infoPanels = Array.from(root.querySelectorAll(".la-info-panel"));
   const warpLabel = root.querySelector("#la-warp-label-8f31c");
   const tooltip = root.querySelector("#la-tip-8f31c");
   const edgeSpeedCache = new Map();
@@ -1955,7 +1997,7 @@ body_class: cartogram-project
       .attr("x", warpedOriginPoint[0] + 3)
       .attr("y", ring => warpedOriginPoint[1] - ring.radius - 3);
 
-    warpLabel.textContent = `outbound from ${cellName(DATA.cells[originId]).split(" · ")[0]} · ${formatClockTime(timeIndex)}`;
+    warpLabel.textContent = `from ${cellName(DATA.cells[originId]).split(" · ")[0]} · ${formatClockTime(timeIndex)}`;
     if (hoverCell !== null && !tooltip.hidden) {
       updateTooltipContent(hoverCell);
     }
@@ -1993,6 +2035,10 @@ body_class: cartogram-project
       : difference === 0
         ? "basin median unchanged from 3:00 AM"
         : `${difference} min ${medianDelay > 0 ? "slower" : "faster"} than 3:00 AM`;
+    const compactComparison = timeIndex === TIMELINE.baselineBin
+      ? "3 AM reference"
+      : `${medianDelay >= 0 ? "+" : "−"}${difference} min vs 3 AM`;
+    statusLine.innerHTML = `<strong>Median ${medianMinutes.toFixed(0)} min</strong> · ${compactComparison}`;
     readout.innerHTML = `<strong>${originName}</strong> origin · ${currentTime} · basin ${minimumMinutes.toFixed(0)}–${maximumMinutes.toFixed(0)} min (median ${medianMinutes.toFixed(0)}) · ${comparison}${completenessText}${hovered}`;
   }
 
@@ -2063,7 +2109,7 @@ body_class: cartogram-project
     isPlaying = nextPlaying;
     playButton.textContent = isPlaying ? "Pause" : "Play";
     playButton.setAttribute("aria-pressed", String(isPlaying));
-    readout.setAttribute("aria-live", isPlaying ? "off" : "polite");
+    statusLine.setAttribute("aria-live", isPlaying ? "off" : "polite");
     playStatus.textContent = isPlaying
       ? `Timeline playing from ${formatClockTime(timeIndex)}`
       : `Timeline paused at ${formatClockTime(timeIndex)}`;
@@ -2102,6 +2148,23 @@ body_class: cartogram-project
       });
     });
     playButton.addEventListener("click", () => setPlaying(!isPlaying));
+    infoButtons.forEach(button => {
+      button.addEventListener("click", () => {
+        const targetId = button.getAttribute("aria-controls");
+        const willOpen = button.getAttribute("aria-expanded") !== "true";
+        infoButtons.forEach(item => item.setAttribute("aria-expanded", "false"));
+        infoPanels.forEach(panel => { panel.hidden = true; });
+        if (willOpen) {
+          button.setAttribute("aria-expanded", "true");
+          root.querySelector(`#${targetId}`).hidden = false;
+        }
+      });
+    });
+    root.addEventListener("keydown", event => {
+      if (event.key !== "Escape") return;
+      infoButtons.forEach(item => item.setAttribute("aria-expanded", "false"));
+      infoPanels.forEach(panel => { panel.hidden = true; });
+    });
     document.addEventListener("visibilitychange", () => {
       if (document.hidden) setPlaying(false);
     });
