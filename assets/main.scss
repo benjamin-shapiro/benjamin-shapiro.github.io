@@ -399,6 +399,111 @@ iframe {
   font-size: 0.95rem;
 }
 
+.project-facts {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  max-width: 44rem;
+  margin: 1.35rem 0 0;
+  border-top: 1px solid var(--line-strong);
+  border-bottom: 1px solid var(--line);
+}
+
+.project-facts > div {
+  display: grid;
+  gap: 0.15rem;
+  padding: 0.85rem 1rem 0.9rem 0;
+}
+
+.project-facts > div + div {
+  padding-left: 1rem;
+  border-left: 1px solid var(--line);
+}
+
+.project-facts strong {
+  color: var(--ink);
+  font-size: 1.08rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.project-facts span {
+  color: var(--muted);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.055em;
+  text-transform: uppercase;
+}
+
+.cartogram-project-shell {
+  width: min(100%, var(--site-width));
+  margin: 0 auto;
+  padding-top: 34px;
+}
+
+.cartogram-intro {
+  padding: 12px 0 34px;
+  border-bottom: 1px solid var(--line-strong);
+}
+
+.cartogram-back {
+  display: inline-block;
+  margin-bottom: 34px;
+  color: var(--muted);
+}
+
+.cartogram-back:hover,
+.cartogram-back:focus-visible {
+  color: var(--ink);
+}
+
+.cartogram-intro__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.18fr) minmax(280px, 0.82fr);
+  gap: 48px;
+  align-items: end;
+}
+
+.cartogram-intro__eyebrow {
+  margin: 0 0 16px;
+  color: var(--muted);
+}
+
+.cartogram-intro h1 {
+  max-width: 13ch;
+  margin: 0;
+  font-size: clamp(2.6rem, 6vw, 5.6rem);
+  font-weight: 800;
+  letter-spacing: -0.055em;
+  line-height: 0.91;
+}
+
+.cartogram-intro__copy {
+  display: grid;
+  gap: 18px;
+}
+
+.cartogram-intro__copy p {
+  max-width: 35rem;
+  margin: 0;
+  color: var(--muted);
+}
+
+.cartogram-intro__copy .cartogram-intro__meta {
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+  font-size: 0.68rem;
+  line-height: 1.7;
+}
+
+.cartogram-visualization {
+  padding-top: 24px;
+}
+
+.cartogram-project #la-tsc-8f31c {
+  padding-right: 0;
+  padding-left: 0;
+}
+
 .page-shell {
   padding-top: 34px;
 }
@@ -572,7 +677,8 @@ iframe {
   .hero,
   .project-grid,
   .writing-item,
-  .photo-strip {
+  .photo-strip,
+  .cartogram-intro__grid {
     grid-template-columns: 1fr;
   }
 
@@ -593,6 +699,10 @@ iframe {
 
   .project-card--centered {
     width: 100%;
+  }
+
+  .cartogram-intro__grid {
+    gap: 26px;
   }
 
 }
@@ -644,6 +754,33 @@ iframe {
     gap: 12px;
     margin-top: 1rem;
     margin-bottom: 1rem;
+  }
+
+  .project-facts {
+    grid-template-columns: 1fr;
+  }
+
+  .project-facts > div + div {
+    padding-left: 0;
+    border-top: 1px solid var(--line);
+    border-left: 0;
+  }
+
+  .cartogram-project-shell {
+    padding-top: 24px;
+  }
+
+  .cartogram-intro {
+    padding-top: 6px;
+    padding-bottom: 26px;
+  }
+
+  .cartogram-back {
+    margin-bottom: 26px;
+  }
+
+  .cartogram-intro h1 {
+    font-size: clamp(2.6rem, 14vw, 4.5rem);
   }
 
 
