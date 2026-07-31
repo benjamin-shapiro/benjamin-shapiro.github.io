@@ -5,28 +5,13 @@ title: Geospatial
 ---
 
 <nav class="page-subnav" aria-label="Geospatial projects">
-  <a class="page-subnav__link" href="#time-space-cartogram">Time-Space LA</a>
   <a class="page-subnav__link" href="#eo-unlocked">EO Unlocked</a>
+  <a class="page-subnav__link" href="#time-space-cartogram">Time-Space LA</a>
   <a class="page-subnav__link" href="#toxic-waste">Toxic Waste</a>
   <a class="page-subnav__link" href="#wildfire-insurance">Wildfire + Insurance</a>
   <a class="page-subnav__link" href="#sea-level-rise">Sea Level Rise</a>
   <a class="page-subnav__link" href="#aromap">Aromap</a>
 </nav>
-
-<section class="project-section" id="time-space-cartogram">
-  <h2 class="project-section__title">Los Angeles Freeway Time-Space Cartogram</h2>
-  <a class="live-demo-link ui-label" href="/Geo/time-space-cartogram/">Open interactive cartogram</a>
-  <p>
-    An interactive experiment that redraws Los Angeles according to freeway travel time rather than
-    geographic distance. Roughly 200 freeway-served catchments expand and contract across a typical
-    weekday using five-minute median speeds from 207 Caltrans PeMS sensors in the historical METR-LA dataset.
-  </p>
-  <div class="project-facts" aria-label="Cartogram project summary">
-    <div><strong>24 hours</strong><span>Five-minute timeline</span></div>
-    <div><strong>200 cells</strong><span>Freeway catchments</span></div>
-    <div><strong>2012</strong><span>Historical weekday profile</span></div>
-  </div>
-</section>
 
 <section class="project-section" id="eo-unlocked">
   <h2 class="project-section__title">EO Unlocked: Metadata Search Engine for Earth Observation</h2>
@@ -57,6 +42,21 @@ title: Geospatial
   </p>
 
   <img src="/Images/EOUnlocked2.png" alt="Search result from EO Unlocked given a latitude, longitude, and timeframe of interest" loading="lazy" />
+</section>
+
+<section class="project-section" id="time-space-cartogram">
+  <h2 class="project-section__title">Los Angeles Freeway Time-Space Cartogram</h2>
+  <a class="live-demo-link ui-label" href="/Geo/time-space-cartogram/">Open interactive cartogram</a>
+  <p>
+    An interactive experiment that redraws Los Angeles according to freeway travel time rather than
+    geographic distance. Roughly 200 freeway-served catchments expand and contract across a typical
+    weekday using five-minute median speeds from 207 Caltrans PeMS sensors in the historical METR-LA dataset.
+  </p>
+  <div class="project-facts" aria-label="Cartogram project summary">
+    <div><strong>24 hours</strong><span>Five-minute timeline</span></div>
+    <div><strong>200 cells</strong><span>Freeway catchments</span></div>
+    <div><strong>2012</strong><span>Historical weekday profile</span></div>
+  </div>
 </section>
 
 <section class="project-section" id="toxic-waste">
