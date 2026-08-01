@@ -56,10 +56,10 @@ title: Geospatial
   </p>
   <img
     class="cartogram-preview"
-    src="/Images/TimeSpaceCartogramMap.gif"
+    src="/Images/TimeSpaceCartogramLongBeachHex.gif"
     width="840"
     height="720"
-    alt="Animated Los Angeles time-space map showing warped, traffic-colored freeway lines and major city labels through a typical weekday"
+    alt="Animated Los Angeles freeway time-space cartogram from the Near Long Beach · 008 origin, with color-changing hexagonal catchments, warped traffic-colored freeways, and travel times beside major cities across a typical weekday"
     loading="lazy"
     decoding="async"
   />
