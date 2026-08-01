@@ -531,7 +531,8 @@ iframe {
 }
 
 .project-section .cartogram-preview {
-  width: 100%;
+  width: min(100%, 840px);
+  height: auto;
 }
 
 .project-image-row {

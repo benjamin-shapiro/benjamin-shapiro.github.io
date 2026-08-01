@@ -47,15 +47,6 @@ title: Geospatial
 <section class="project-section" id="time-space-cartogram">
   <h2 class="project-section__title">Los Angeles Freeway Time-Space Cartogram</h2>
   <a class="live-demo-link ui-label" href="/Geo/time-space-cartogram/">Open interactive cartogram</a>
-  <img
-    class="cartogram-preview"
-    src="/Images/TimeSpaceCartogram.gif"
-    width="800"
-    height="360"
-    alt="Animated Los Angeles freeway time-space cartogram from a Long Beach origin, showing the basin expand and contract through a typical weekday"
-    loading="lazy"
-    decoding="async"
-  />
   <p>
     In Los Angeles, distance is measured as much in minutes as in miles: a ten-mile trip can take
     ten minutes or an hour, depending on the time of day. This interactive experiment redraws the
@@ -63,6 +54,15 @@ title: Geospatial
     catchments expand and contract across a typical weekday using five-minute median speeds from 207
     Caltrans PeMS sensors in the historical METR-LA dataset.
   </p>
+  <img
+    class="cartogram-preview"
+    src="/Images/TimeSpaceCartogramMap.gif"
+    width="840"
+    height="720"
+    alt="Animated Los Angeles time-space map showing warped, traffic-colored freeway lines and major city labels through a typical weekday"
+    loading="lazy"
+    decoding="async"
+  />
 </section>
 
 <section class="project-section" id="toxic-waste">
