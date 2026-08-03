@@ -125,6 +125,20 @@ iframe {
   color: var(--ink);
 }
 
+.site-brand,
+.site-nav__link {
+  padding-bottom: 2px;
+  border-bottom: 1px solid transparent;
+  transition: color 160ms ease, border-color 160ms ease;
+}
+
+.site-brand:hover,
+.site-brand:focus-visible,
+.site-nav__link:hover,
+.site-nav__link:focus-visible {
+  border-bottom-color: var(--line-strong);
+}
+
 .home-page {
   padding-top: 38px;
 }
@@ -725,10 +739,6 @@ iframe {
   .site-nav__link {
     font-size: 0.7rem;
     letter-spacing: 0.07em;
-  }
-
-  .site-nav__link--home {
-    display: none;
   }
 
   .hero__title {

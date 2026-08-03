@@ -8,17 +8,16 @@
       <nav class="site-nav" aria-label="Primary">
         {%- for path in page_paths -%}
           {%- assign my_page = site.pages | where: "path", path | first -%}
-          {%- if my_page.title -%}
+          {%- if my_page.title and my_page.url != "/" -%}
             {%- assign nav_label = my_page.title -%}
             {%- case my_page.url -%}
-              {%- when "/" -%}{%- assign nav_label = "Home" -%}
               {%- when "/Geo" -%}{%- assign nav_label = "Geospatial" -%}
               {%- when "/Finance" -%}{%- assign nav_label = "Finance" -%}
               {%- when "/Publications" -%}{%- assign nav_label = "Writing" -%}
               {%- when "/Creative" -%}{%- assign nav_label = "Photo" -%}
             {%- endcase -%}
             <a
-              class="site-nav__link{% if my_page.url == "/" %} site-nav__link--home{% endif %}{% if my_page.url == page.url %} is-active{% endif %}"
+              class="site-nav__link{% if my_page.url == page.url %} is-active{% endif %}"
               href="{{ my_page.url | relative_url }}"
               {% if my_page.url == page.url %}aria-current="page"{% endif %}
             >
