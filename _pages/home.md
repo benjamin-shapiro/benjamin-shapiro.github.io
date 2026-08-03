@@ -38,7 +38,6 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
     </section>
     <div class="hero__links">
       <a class="inline-link" href="https://www.linkedin.com/in/benjaminshapiro1/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-      <a class="inline-link" href="https://github.com/benjamin-shapiro" target="_blank" rel="noopener noreferrer">GitHub</a>
       <a class="inline-link" href="https://bshapirophoto.com" target="_blank" rel="noopener noreferrer">Photography</a>
       <a class="inline-link" href="https://www.strava.com/athletes/6805827" target="_blank" rel="noopener noreferrer">Let’s go for a run!</a>
     </div>
