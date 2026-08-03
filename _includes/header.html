@@ -18,7 +18,7 @@
               {%- when "/Creative" -%}{%- assign nav_label = "Photo" -%}
             {%- endcase -%}
             <a
-              class="site-nav__link{% if my_page.url == page.url %} is-active{% endif %}"
+              class="site-nav__link{% if my_page.url == "/" %} site-nav__link--home{% endif %}{% if my_page.url == page.url %} is-active{% endif %}"
               href="{{ my_page.url | relative_url }}"
               {% if my_page.url == page.url %}aria-current="page"{% endif %}
             >

@@ -7,7 +7,7 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
 ---
 
 <section class="hero">
-  <div>
+  <div class="hero__identity">
     <h1 class="hero__title">Dear visitor, welcome to my portfolio!</h1>
   </div>
 
@@ -31,9 +31,9 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
     <section class="hero__path" aria-labelledby="path-so-far-title">
       <h2 class="hero__path-title ui-label" id="path-so-far-title">Path so far</h2>
       <p class="hero__path-copy">
-        From growing up on St. Thomas and attending high school in Miami to Cornell, NASA, an
-        Aerospace internship, graduate school at The International Space University in
-        Strasbourg, venture scouting in Tel Aviv, and back to Aerospace in Los Angeles.
+        From St. Thomas and high school in Miami to Cornell, NASA, The Aerospace Corporation,
+        graduate school at the International Space University in Strasbourg, venture scouting in
+        Tel Aviv, and back to Aerospace in Los Angeles.
       </p>
     </section>
     <div class="hero__links">
