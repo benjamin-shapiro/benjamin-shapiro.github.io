@@ -12,11 +12,24 @@ title: AI
 <section class="project-section" id="wingman">
   <h2 class="project-section__title">Wingman: Hazard Detection and Warning System for Cyclists</h2>
   <p>
-    A low-cost hazard detection system for cyclists, designed to improve situational awareness
-    without the need for expensive RADAR-based hardware. Uses <a href="https://kivy.org/">Kivy</a> for the
-    mobile app GUI, Arduino-based sensing hardware for rearward video acquisition, and a Python
-    edge-computing pipeline for computer vision, classification, and monocular distance estimation
-    using TensorFlow Lite, the <a href="https://arxiv.org/abs/1704.04861">MobileNet vision model</a>,
+    Road cyclists need eyes in the back of their heads: traffic can approach quickly from behind while
+    a rider's attention stays on the road ahead. <a href="https://www.garmin.com/en-US/p/698001/">Garmin's Varia Radar</a>
+    addresses the same problem, but costs more than $200 and cannot distinguish among traffic types or show whether a
+    vehicle is approaching to the rider's left or right rather than directly behind.
+    Garmin's newer <a href="https://www.garmin.com/en-US/p/721258/">$399.99 Varia RCT715</a> adds
+    dashcam-style rear-facing recording, functionality Wingman's camera-based design can also provide,
+    but at an even higher hardware cost.
+  </p>
+  <p>
+    Wingman is a computer vision-based second set of eyes for cyclists, roughly 20x cheaper than radar-based
+    alternatives, built from commercial off-the-shelf hardware to locate and classify traffic approaching
+    from behind using a rearward-facing camera, a microcontroller, and the processing power already in a
+    rider's phone.
+  </p>
+  <p>
+    The mobile interface uses <a href="https://kivy.org/">Kivy</a>, while a Python edge-computing
+    pipeline performs computer vision, classification, and monocular distance estimation using TensorFlow Lite, the
+    <a href="https://arxiv.org/abs/1704.04861">MobileNet vision model</a>,
     the <a href="https://www.cvlibs.net/datasets/kitti/">KITTI Vision Dataset</a>, and
     <a href="https://xgboost.readthedocs.io/en/stable/">XGBoost</a> via an implementation from the
     <a href="https://project.inria.fr/ppniv18/files/2018/10/paper22.pdf">DisNet 2018 paper</a>.

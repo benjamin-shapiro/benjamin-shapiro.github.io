@@ -70,7 +70,7 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
       <div class="project-card__body">
         <p class="project-card__eyebrow ui-label">Applied AI</p>
         <h3 class="project-card__title">Wingman</h3>
-        <p>A low-cost hazard detection system for cyclists, designed to improve situational awareness without the need for expensive RADAR-based hardware.</p>
+        <p>A computer vision-based second set of eyes for cyclists, roughly 20x cheaper than radar-based alternatives, built from commercial off-the-shelf hardware to locate and classify traffic approaching from behind using a rearward-facing camera, a microcontroller, and the processing power already in a rider's phone.</p>
         <p class="project-card__meta ui-label">Arduino, computer vision, monocular distance estimation, edge computing</p>
       </div>
     </a>
