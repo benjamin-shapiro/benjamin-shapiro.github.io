@@ -94,7 +94,7 @@ description: Benjamin Shapiro's portfolio of curiosity-driven projects spanning 
       <div class="project-card__body">
         <p class="project-card__eyebrow ui-label">Geospatial</p>
         <h3 class="project-card__title">Aromap: The Olfactory Social Network</h3>
-        <p>Track smells around your area. Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends. In a world where smells are our most dear sense, Aromap is your guiding light.</p>
+        <p>Track smells around your area. Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends. In a world where smells are our dearest sense, Aromap is your guiding light.</p>
         <p class="project-card__meta ui-label"><span class="project-card__skill">Crowdsourced mapping,</span> <span class="project-card__skill">geolocation,</span> <span class="project-card__skill">social discovery</span></p>
       </div>
     </a>

@@ -48,8 +48,8 @@ description: Geospatial projects exploring Earth observation, Los Angeles mobili
 
   <p>
     Simply select a location and historical timeframe of interest and receive instant results for
-    predicted visual footprints of a virtual constellation of more than 350 spacecraft, ranked by
-    cloud coverage.
+    predicted visual footprints (at nadir) of a virtual constellation of more than 350 spacecraft,
+    ranked by cloud coverage.
   </p>
 
   <img src="/Images/EOUnlocked2.png" alt="Search result from EO Unlocked given a latitude, longitude, and timeframe of interest" loading="lazy" />
@@ -119,7 +119,7 @@ description: Geospatial projects exploring Earth observation, Los Angeles mobili
   <p>
     Track smells around your area. Smell something stinky? Report it! Smell something
     heavenly and want others to experience it? Enlighten your friends. In a world where smells are
-    our most dear sense, Aromap is your guiding light.
+    our dearest sense, Aromap is your guiding light.
   </p>
 
   <img src="/Images/Aromap1.png" alt="Aromap screenshot 1" loading="lazy" />
