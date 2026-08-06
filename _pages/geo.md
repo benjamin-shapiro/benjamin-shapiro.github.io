@@ -19,7 +19,7 @@ description: Geospatial projects exploring Earth observation, Los Angeles mobili
   <a class="live-demo-link ui-label" href="https://eo-unlocked.onrender.com" target="_blank" rel="noopener noreferrer">Live demo</a>
   <p>
     EO Unlocked is a user-centric Earth observation discovery interface for modeling virtual
-    constellations and past, present, and future opportunities for coordinated observation across
+    constellations and past, present, and future opportunities for coordination across
     commercial and civil assets. Inspired by Cory Doctorow's writing on
     <a href="https://www.eff.org/deeplinks/2019/10/adversarial-interoperability">adversarial interoperability</a>,
     it synthesizes public metadata into a system-level view without requiring direct integration with
@@ -27,12 +27,12 @@ description: Geospatial projects exploring Earth observation, Los Angeles mobili
     observation: who can see what and when.
   </p>
   <p>
-    Uses space situational awareness data from <a href="https://celestrak.org/">CelesTrak</a> to
+    It uses space situational awareness data from <a href="https://celestrak.org/">CelesTrak</a> to
     propagate satellite orbits with <a href="https://en.wikipedia.org/wiki/Simplified_perturbations_models">SGP4</a>,
     then makes predicted observation footprints searchable through spatial computation with an
     <a href="https://en.wikipedia.org/wiki/R-tree">R-Tree index</a>. A React and ThreeJS-based GUI enables
-    search and filtering of results, with the use of the <a href="https://open-meteo.com/">Open-Meteo API</a>
-    for supplemental weather data.
+    search and filtering of results. It also incorporates supplemental weather data from the
+    <a href="https://open-meteo.com/">Open-Meteo API</a>, since cloud cover can influence access opportunities.
   </p>
   <p>
     Sensor specifications for thousands of spacecraft were mined from
