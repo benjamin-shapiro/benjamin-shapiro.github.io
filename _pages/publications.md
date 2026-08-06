@@ -2,6 +2,7 @@
 permalink: /Publications
 layout: page
 title: Publications
+description: Selected research and writing on commercial space stations, pandemic resilience, and the changing ways we use and build in space.
 ---
 
 ## Papers

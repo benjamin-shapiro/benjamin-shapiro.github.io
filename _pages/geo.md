@@ -2,6 +2,7 @@
 permalink: /Geo
 layout: page
 title: Geospatial
+description: Geospatial projects exploring Earth observation, Los Angeles mobility, environmental risk, and the unexpected ways data can reveal a place.
 ---
 
 <nav class="page-subnav" aria-label="Geospatial projects">
@@ -22,12 +23,17 @@ title: Geospatial
     large-scale metadata synthesis.
     Essentially, a Google Flights for Earth observation that shows who can see what and when without
     requiring direct integration with individual satellite operators or their APIs.
+  </p>
+  <p>
     Uses space situational awareness data from <a href="https://celestrak.org/">CelesTrak</a> to
     propagate satellite orbits with <a href="https://en.wikipedia.org/wiki/Simplified_perturbations_models">SGP4</a>,
     then makes predicted observation footprints searchable through spatial computation with an
     <a href="https://en.wikipedia.org/wiki/R-tree">R-Tree index</a>. A React and ThreeJS-based GUI enables
     search and filtering of results, with the use of the <a href="https://open-meteo.com/">Open-Meteo API</a>
-    for supplemental weather data. Sensor specifications for thousands of spacecraft were mined from
+    for supplemental weather data.
+  </p>
+  <p>
+    Sensor specifications for thousands of spacecraft were mined from
     <a href="https://www.eoportal.org/">ESA's eoPortal</a>,
     <a href="https://space.oscar.wmo.int/">the World Meteorological Organization's Oscar tool</a>,
     <a href="https://www.nanosats.eu/">Nanosats EU</a>, and
@@ -86,6 +92,12 @@ title: Geospatial
 
 <section class="project-section" id="wildfire-insurance">
   <h2 class="project-section__title">California Wildfire Hazard and Insurance Stress Dashboard</h2>
+  <p>
+    Wildfire risk is reshaping California's housing and insurance markets, but the physical and financial
+    sides of the problem are rarely viewed together. Built in ArcGIS Experience Builder, this dashboard
+    combines wildfire hazard and insurance stress indicators in interactive maps and charts to show where
+    those pressures overlap.
+  </p>
   <iframe width="800" height="800" frameborder="0" allowfullscreen src="https://arcg.is/0Hyif4" title="California Wildfire Hazard and Insurance Stress Dashboard"></iframe>
 </section>
 

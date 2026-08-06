@@ -2,6 +2,7 @@
 permalink: /Space
 layout: page
 title: Space
+description: Space projects spanning light sail deployment, on-orbit machine learning, infrared sensing, and the early experiments that drew me toward space systems.
 ---
 
 <nav class="page-subnav" aria-label="Space projects">

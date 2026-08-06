@@ -3,7 +3,7 @@ permalink: /
 layout: home
 title: Benjamin Shapiro's Portfolio
 seo_title: Benjamin Shapiro's Portfolio
-description: Benjamin Shapiro's portfolio of projects spanning space systems, Earth observation, climate resilience, applied AI, financial analysis, and photography.
+description: Benjamin Shapiro's portfolio of curiosity-driven projects spanning space systems, Earth observation, climate resilience, applied AI, financial analysis, and photography.
 ---
 
 <section class="hero">
@@ -13,8 +13,8 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
 
   <div class="hero__body">
     <p>
-      Growing up in the beautiful US Virgin Islands, an astrophotographer on a healthy diet of
-      Isaac Asimov and Arthur C. Clarke, I spent my nights looking skyward. When my home was
+      Growing up in the beautiful U.S. Virgin Islands, I became an astrophotographer on a healthy
+      diet of Isaac Asimov and Arthur C. Clarke and spent my nights looking skyward. When my home was
       ravaged by not one, but two hurricanes of near-biblical proportions, I felt an obligation
       to join the battle for our planet’s future. I found my calling in space.
     </p>
@@ -57,7 +57,7 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
       <div class="project-card__body">
         <p class="project-card__eyebrow ui-label">Earth observation</p>
         <h3 class="project-card__title"><a href="/Geo#eo-unlocked">EO Unlocked</a></h3>
-        <p>User-centric Earth observation discovery interface built to model virtual constellations and past, present, and future interoperability opportunities across commercial and civil assets through large-scale metadata synthesis. Essentially, a Google Flights for Earth observation that shows who can see what and when without requiring direct integration with individual satellite operators or their APIs.</p>
+        <p>Google Flights for Earth observation: a metadata-driven interface for exploring who can see what and when across commercial and civil spacecraft. It models past, present, and future virtual constellations and interoperability opportunities without requiring direct integration with individual operators.</p>
         <a class="live-demo-link ui-label" href="https://eo-unlocked.onrender.com" target="_blank" rel="noopener noreferrer">Live demo</a>
         <p class="project-card__meta ui-label"><span class="project-card__skill">Astrodynamics,</span> <span class="project-card__skill">SGP4,</span> <span class="project-card__skill">spatial computation,</span> <span class="project-card__skill">React,</span> <span class="project-card__skill">ThreeJS</span></p>
       </div>
@@ -70,7 +70,7 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
       <div class="project-card__body">
         <p class="project-card__eyebrow ui-label">Applied AI</p>
         <h3 class="project-card__title">Wingman</h3>
-        <p>A computer vision-based second set of eyes for cyclists, roughly 20x cheaper than radar-based alternatives, built from commercial off-the-shelf hardware to locate and classify traffic approaching from behind using a rearward-facing camera, a microcontroller, and the processing power already in a rider's phone.</p>
+        <p>Wingman gives cyclists a computer vision-based second set of eyes for about $10 in materials, roughly 20x cheaper than radar-based alternatives. A rearward-facing camera and microcontroller use the processing power already in the rider's phone to locate and classify approaching traffic.</p>
         <p class="project-card__meta ui-label"><span class="project-card__skill">Arduino,</span> <span class="project-card__skill">computer vision,</span> <span class="project-card__skill">monocular distance estimation,</span> <span class="project-card__skill">edge computing,</span> <span class="project-card__skill">mobile app development</span></p>
       </div>
     </a>
@@ -113,7 +113,7 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
       <div class="project-card__body">
         <p class="project-card__eyebrow ui-label">Photography</p>
         <h3 class="project-card__title">Astrophotography</h3>
-        <p>Night-sky photography from my travels, capturing eclipses, star fields, and the Milky Way across remote landscapes.</p>
+        <p>Long-exposure work made under dark skies, from eclipses and Milky Way landscapes to the people who gather beneath them.</p>
         <p class="project-card__meta ui-label"><span class="project-card__skill">Long-exposure photography,</span> <span class="project-card__skill">low-light composition,</span> <span class="project-card__skill">post-processing</span></p>
       </div>
     </a>

@@ -2,6 +2,7 @@
 permalink: /Creative
 layout: page
 title: Photography
+description: Astrophotography, wildlife, and travel photography shaped by dark skies, distant landscapes, and moments worth a closer look.
 ---
 
 

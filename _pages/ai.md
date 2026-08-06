@@ -2,6 +2,7 @@
 permalink: /AI
 layout: page
 title: AI
+description: Applied AI projects exploring cyclist safety, computer vision, edge computing, mobile development, and real-time audio processing.
 ---
 
 <nav class="page-subnav" aria-label="AI projects">

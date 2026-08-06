@@ -2,6 +2,7 @@
 permalink: /Finance
 layout: page
 title: Economics & Finance
+description: Interactive projects that make game theory easier to explore and reveal arbitrage opportunities hidden in financial networks.
 ---
 
 <nav class="page-subnav" aria-label="Finance projects">
@@ -10,13 +11,12 @@ title: Economics & Finance
 </nav>
 
 <section class="project-section" id="nashcalc">
-  <h2 class="project-section__title">NashCalc: The Most Intuitive Way to Game Theorize</h2>
+  <h2 class="project-section__title">NashCalc: A Visual Interface for Game Theory</h2>
   <p>
-    An intuitive interface designed to improve accessibility to and interactivity with algorithmic
-    game theory libraries like <a href="https://gambitproject.readthedocs.io/en/latest/">Gambit</a>
-    and <a href="https://nashpy.readthedocs.io/en/stable/">Nashpy</a> through modern web frameworks,
-    reducing the field's barriers to entry for students and researchers alike. Currently functional
-    for two-player standard form games of NxN dimensions.
+    NashCalc turns algorithmic game-theory libraries such as
+    <a href="https://gambitproject.readthedocs.io/en/latest/">Gambit</a> and
+    <a href="https://nashpy.readthedocs.io/en/stable/">Nashpy</a> into an interactive web interface
+    for students and researchers. It currently supports two-player N &times; N normal-form games.
   </p>
 
   <img src="/Images/NashCalc1.png" alt="NashCalc title page" loading="lazy" />
