@@ -13,9 +13,12 @@ description: Interactive projects that make game theory easier to explore and re
 <section class="project-section" id="nashcalc">
   <h2 class="project-section__title">NashCalc: Building the Desmos of Game Theory</h2>
   <p>
-    NashCalc lays the groundwork for a Desmos-style learning environment for game theory, turning
-    abstract payoff matrices and computational solvers into an interactive visual experience. Powered
-    by <a href="https://gambitproject.readthedocs.io/en/latest/">Gambit</a> and
+    NashCalc lays the groundwork for a <a href="https://www.desmos.com/calculator">Desmos-style</a>
+    learning environment for game theory, turning
+    abstract payoff matrices and computational solvers into an interactive visual experience. For
+    students early in their learning journey, many existing tools require writing code or interpreting
+    results with little visual explanation; NashCalc is designed to lower that barrier. Powered by
+    <a href="https://gambitproject.readthedocs.io/en/latest/">Gambit</a> and
     <a href="https://nashpy.readthedocs.io/en/stable/">Nashpy</a>, the current prototype supports
     two-player N &times; N normal-form games.
   </p>

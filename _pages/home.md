@@ -13,13 +13,13 @@ description: Benjamin Shapiro's portfolio of curiosity-driven projects spanning 
 
   <div class="hero__body">
     <p>
-      Growing up in the beautiful U.S. Virgin Islands, I became an astrophotographer on a healthy
-      diet of Isaac Asimov and Arthur C. Clarke and spent my nights looking skyward. When my home was
+      Growing up in the beautiful U.S. Virgin Islands on a healthy diet of Isaac Asimov and Arthur C.
+      Clarke, I spent my nights looking skyward. When my home was
       ravaged by not one, but two hurricanes of near-biblical proportions, I felt an obligation
       to join the battle for our planet’s future. I found my calling in space.
     </p>
     <p>
-      With space as my anchor, I’m curious about the big ideas that could change how we live in,
+      That calling anchors a broader curiosity about the big ideas that could change how we live in,
       build upon, move through, and understand our world. I’m most energized by the unexpected
       creativity that emerges where seemingly disparate domains meet, and I enjoy translating
       between them to connect ideas, people, and new possibilities along the way. This portfolio
