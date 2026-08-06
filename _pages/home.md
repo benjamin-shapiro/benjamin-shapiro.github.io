@@ -82,7 +82,7 @@ description: Benjamin Shapiro's portfolio of curiosity-driven projects spanning 
       <div class="project-card__body">
         <p class="project-card__eyebrow ui-label">Space systems</p>
         <h3 class="project-card__title"><a href="/Space#light-sail">LightSail Deployment Sim</a></h3>
-        <p>Simulation of on-orbit free-flying light sail deployment from the <a class="project-card__text-link" href="https://alphacubesat.cornell.edu/index.html" target="_blank" rel="noopener noreferrer">Cornell Alpha CubeSat</a>, developed and choreographed in Unreal Engine 4.</p>
+        <p>Simulation of on-orbit free-flying light sail deployment from the <a class="project-card__text-link" href="https://alphacubesat.cornell.edu/index.html" target="_blank" rel="noopener noreferrer">Cornell Alpha CubeSat</a>, developed and choreographed in <a class="project-card__text-link" href="https://en.wikipedia.org/wiki/Unreal_Engine" target="_blank" rel="noopener noreferrer">Unreal Engine 4</a>.</p>
         <p class="project-card__meta ui-label"><span class="project-card__skill">Animation,</span> <span class="project-card__skill">camera orchestration,</span> <span class="project-card__skill">cinematic sequencing,</span> <span class="project-card__skill">Unreal Engine</span></p>
       </div>
     </article>

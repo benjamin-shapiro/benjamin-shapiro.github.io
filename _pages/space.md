@@ -15,7 +15,8 @@ description: Space projects spanning light sail deployment, on-orbit machine lea
   <p>
     Simulation of on-orbit free-flying light sail deployment from the
     <a href="https://alphacubesat.cornell.edu/index.html">Cornell Alpha CubeSat</a>, developed and
-    choreographed in Unreal Engine 4. Alpha was deployed from the ISS via Nanoracks in late 2025,
+    choreographed in <a href="https://en.wikipedia.org/wiki/Unreal_Engine">Unreal Engine 4</a>. Alpha
+    was deployed from the ISS via Nanoracks in late 2025,
     carrying the world's first retroreflective, free-flying light sail and becoming a trailblazer
     for future missions to our nearest stellar neighbor, Alpha Centauri. Alpha concluded mission
     ops in early 2026, with a follow-on in the pipeline at the
