@@ -13,7 +13,7 @@ description: Interactive projects that make game theory easier to explore and re
 <section class="project-section" id="nashcalc">
   <h2 class="project-section__title">NashCalc: Building the Desmos of Game Theory</h2>
   <p>
-    NashCalc lays the groundwork for a <a href="https://www.desmos.com/calculator">Desmos-style</a>
+    NashCalc lays the groundwork for a <a href="https://www.desmos.com">Desmos-style</a>
     learning environment for game theory, turning
     abstract payoff matrices and computational solvers into an interactive visual experience. For
     students early in their learning journey, many existing tools require writing code or interpreting
