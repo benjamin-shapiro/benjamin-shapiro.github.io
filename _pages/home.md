@@ -57,7 +57,7 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
       <div class="project-card__body">
         <p class="project-card__eyebrow ui-label">Earth observation</p>
         <h3 class="project-card__title"><a href="/Geo#eo-unlocked">EO Unlocked</a></h3>
-        <p>User-centric Earth observation discovery interface built to model virtual constellations and interoperability opportunities across commercial and civil assets through large-scale metadata synthesis.</p>
+        <p>User-centric Earth observation discovery interface built to model virtual constellations and past, present, and future interoperability opportunities across commercial and civil assets through large-scale metadata synthesis. Essentially, a Google Flights for Earth observation that shows who can see what and when without requiring direct integration with individual satellite operators or their APIs.</p>
         <a class="live-demo-link ui-label" href="https://eo-unlocked.onrender.com" target="_blank" rel="noopener noreferrer">Live demo</a>
         <p class="project-card__meta ui-label">Astrodynamics, SGP4, spatial computation, React, ThreeJS</p>
       </div>

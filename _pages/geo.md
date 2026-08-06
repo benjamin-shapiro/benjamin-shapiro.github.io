@@ -18,13 +18,16 @@ title: Geospatial
   <a class="live-demo-link ui-label" href="https://eo-unlocked.onrender.com" target="_blank" rel="noopener noreferrer">Live demo</a>
   <p>
     User-centric Earth observation discovery interface built to model virtual constellations and
-    interoperability opportunities across commercial and civil assets through large-scale metadata synthesis.
-    Uses space situational awareness data from <a href="https://celestrak.org/">Celestrak</a>,
-    propagated via <a href="https://en.wikipedia.org/wiki/Simplified_perturbations_models">SGP4</a>
-    astrodynamics, and made searchable through spatial computation with an
-    <a href="https://en.wikipedia.org/wiki/R-tree">R-Tree index</a>. Search and filtering GUI
-    developed in React and ThreeJS with the use of <a href="https://open-meteo.com/">Open-Meteo API</a>
-    for supplemental weather data. Sensor specifications for thousands of spacecraft mined from
+    past, present, and future interoperability opportunities across commercial and civil assets through
+    large-scale metadata synthesis.
+    Essentially, a Google Flights for Earth observation that shows who can see what and when without
+    requiring direct integration with individual satellite operators or their APIs.
+    Uses space situational awareness data from <a href="https://celestrak.org/">CelesTrak</a> to
+    propagate satellite orbits with <a href="https://en.wikipedia.org/wiki/Simplified_perturbations_models">SGP4</a>,
+    then makes predicted observation footprints searchable through spatial computation with an
+    <a href="https://en.wikipedia.org/wiki/R-tree">R-Tree index</a>. A React and ThreeJS-based GUI enables
+    search and filtering of results, with the use of the <a href="https://open-meteo.com/">Open-Meteo API</a>
+    for supplemental weather data. Sensor specifications for thousands of spacecraft were mined from
     <a href="https://www.eoportal.org/">ESA's eoPortal</a>,
     <a href="https://space.oscar.wmo.int/">the World Meteorological Organization's Oscar tool</a>,
     <a href="https://www.nanosats.eu/">Nanosats EU</a>, and
