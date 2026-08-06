@@ -71,7 +71,7 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
         <p class="project-card__eyebrow ui-label">Applied AI</p>
         <h3 class="project-card__title">Wingman</h3>
         <p>A computer vision-based second set of eyes for cyclists, roughly 20x cheaper than radar-based alternatives, built from commercial off-the-shelf hardware to locate and classify traffic approaching from behind using a rearward-facing camera, a microcontroller, and the processing power already in a rider's phone.</p>
-        <p class="project-card__meta ui-label">Arduino, computer vision, monocular distance estimation, edge computing</p>
+        <p class="project-card__meta ui-label">Arduino, computer vision, monocular distance estimation, edge computing, mobile app development</p>
       </div>
     </a>
 
