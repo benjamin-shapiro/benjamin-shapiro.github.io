@@ -70,7 +70,7 @@ description: Benjamin Shapiro's portfolio of curiosity-driven projects spanning 
       <div class="project-card__body">
         <p class="project-card__eyebrow ui-label">Applied AI</p>
         <h3 class="project-card__title">Wingman</h3>
-        <p>Wingman gives cyclists a computer vision-based second set of eyes for about $10 in materials, roughly 20x cheaper than radar-based alternatives. A rearward-facing camera and microcontroller use the processing power already in the rider's phone to locate and classify approaching traffic.</p>
+        <p>Wingman gives cyclists a computer vision-based second set of eyes for about $10 in materials, roughly 20x cheaper than radar-based alternatives. Using a rearward-facing camera connected to a microcontroller, Wingman draws on the processing power already in the rider's phone to locate and classify approaching traffic.</p>
         <p class="project-card__meta ui-label"><span class="project-card__skill">Arduino,</span> <span class="project-card__skill">computer vision,</span> <span class="project-card__skill">monocular distance estimation,</span> <span class="project-card__skill">edge computing,</span> <span class="project-card__skill">mobile app development</span></p>
       </div>
     </a>
