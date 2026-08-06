@@ -11,12 +11,13 @@ description: Interactive projects that make game theory easier to explore and re
 </nav>
 
 <section class="project-section" id="nashcalc">
-  <h2 class="project-section__title">NashCalc: A Visual Interface for Game Theory</h2>
+  <h2 class="project-section__title">NashCalc: Building the Desmos of Game Theory</h2>
   <p>
-    NashCalc turns algorithmic game-theory libraries such as
-    <a href="https://gambitproject.readthedocs.io/en/latest/">Gambit</a> and
-    <a href="https://nashpy.readthedocs.io/en/stable/">Nashpy</a> into an interactive web interface
-    for students and researchers. It currently supports two-player N &times; N normal-form games.
+    NashCalc lays the groundwork for a Desmos-style learning environment for game theory, turning
+    abstract payoff matrices and computational solvers into an interactive visual experience. Powered
+    by <a href="https://gambitproject.readthedocs.io/en/latest/">Gambit</a> and
+    <a href="https://nashpy.readthedocs.io/en/stable/">Nashpy</a>, the current prototype supports
+    two-player N &times; N normal-form games.
   </p>
 
   <img src="/Images/NashCalc1.png" alt="NashCalc title page" loading="lazy" />
@@ -26,9 +27,10 @@ description: Interactive projects that make game theory easier to explore and re
 <section class="project-section" id="exchange-network">
   <h2 class="project-section__title">Financial Network Viz</h2>
   <p>
-    Visualization generated with Python's NetworkX and Matplotlib using the
+    This visualization uses Python's NetworkX and Matplotlib with the
     <a href="https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm">Bellman-Ford algorithm</a>
-    to identify negative cycles in the bidirected graphs of currency pairs and surface arbitrage opportunities within and across exchanges.
+    to identify negative cycles in directed graphs of currency pairs, revealing potential arbitrage
+    opportunities within and across exchanges.
   </p>
 
   <img src="/Images/Arbitrage1.jpg" alt="Exchange visualization 1" loading="lazy" />

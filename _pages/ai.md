@@ -19,10 +19,10 @@ description: Applied AI projects exploring cyclist safety, computer vision, edge
     traffic is approaching from the rider's left, right, or directly behind.
   </p>
   <p>
-    Wingman is a computer vision-based second set of eyes for cyclists, roughly 20x cheaper than radar-based
-    alternatives. Built from commercial off-the-shelf hardware, it locates and classifies traffic
-    approaching from behind using a rearward-facing camera, a microcontroller, and the processing power
-    already in a rider's phone.
+    Wingman is a computer vision-based second set of eyes for cyclists. At about $10 in materials, the
+    prototype is roughly 20x cheaper than Garmin's radar-based alternative. Built from commercial
+    off-the-shelf hardware, it locates and classifies traffic approaching from behind using a
+    rearward-facing camera, a microcontroller, and the processing power already in a rider's phone.
   </p>
   <p>
     Garmin's newer <a href="https://www.garmin.com/en-US/p/721258/">$399.99 Varia RCT715</a> adds

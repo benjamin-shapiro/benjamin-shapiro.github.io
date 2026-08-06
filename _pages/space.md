@@ -38,26 +38,20 @@ description: Space projects spanning light sail deployment, on-orbit machine lea
 <section class="project-section" id="cloud-cover">
   <h2 class="project-section__title">Detecting Cloud Cover from Space Using Infrared Sensors (Miami Young Data Scientists)</h2>
   <p>
-    We had the opportunity to run our code on-orbit aboard Spire Global's Lemur 2 NanoSatellite as
-    part of a winning experimental machine learning entry in the 2015 Association of Space
-    Explorers (ASE) Astrosat Challenge.
+    Our winning entry in the 2015 Association of Space Explorers (ASE) Astrosat Challenge ran a
+    machine-learning experiment aboard Spire Global's Lemur-2 nanosatellite.
   </p>
 
   <img src="/Images/ArdusatSat.png" alt="Render of Ardusat nanosatellite" loading="lazy" />
   <img src="/Images/ArdusatWinner.png" alt="Winner announcement for the ASE Astrosat Challenge" loading="lazy" />
 
   <p>
-    Data collection was constrained to 15 kilobytes, approximately 1500 observations, from an
-    equatorial orbit. Used a support vector machine approach on infrared emissivity data to predict
-    cloud cover, validated with live weather APIs.
+    Working within a 15 KB data budget, we used a support vector machine to classify roughly 1,500
+    infrared observations and validated the results against live weather data, achieving about 75%
+    accuracy.
   </p>
 
   <img src="/Images/ArdusatCode.png" alt="Experimental code for detecting cloud cover from space using infrared sensors" loading="lazy" />
-
-  <p>
-    Achieved approximately 75% accuracy in the binary classification problem (is it a cloud or
-    not?).
-  </p>
 
   <div class="project-image-row">
     <img src="/Images/Countdown.png" alt="Countdown Institute logo" loading="lazy" />

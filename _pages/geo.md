@@ -77,10 +77,10 @@ description: Geospatial projects exploring Earth observation, Los Angeles mobili
 <section class="project-section" id="toxic-waste">
   <h2 class="project-section__title">2022 LA County Toxic Waste Release Hazard to K-12 Educational Institutions: A Geospatial Analysis</h2>
   <p>
-    Assessing the proximity of Toxic Release Inventory (TRI) facilities to K-12 schools in Los
-    Angeles County, identifying significant potential exposure risks for students through the use of
-    spatial buffering and overlay tools. Results indicate that 92.9% of TRI sites are located
-    within one mile of a school, with 64 schools situated near multiple high-risk facilities.
+    This analysis maps 2022 Toxic Release Inventory (TRI) facilities near K-12 schools in Los Angeles
+    County to identify areas of potential exposure concern using spatial buffers and overlays. Of the
+    TRI sites analyzed, 92.9% were within one mile of a school, and 64 schools were near multiple
+    high-emissions facilities.
   </p>
 
   <img src="/Images/ToxicWaste1.png" alt="LA TRI facilities overlaid over areas within one mile of a school" loading="lazy" />
@@ -104,12 +104,9 @@ description: Geospatial projects exploring Earth observation, Los Angeles mobili
 <section class="project-section" id="sea-level-rise">
   <h2 class="project-section__title">Rising Sea Level Risks to Miami (2100 Inundation Projections)</h2>
   <p>
-    Highlighting severe inundation risks to densely populated and economically vital areas in the
-    city using projections from NASA and the Florida Climate Center. The results, derived from map
-    algebra operations performed on a digital elevation model, visually emphasize increased
-    vulnerability along low-lying coastal regions, particularly during storm surges and high-tide
-    events, underscoring the urgent need for substantial mitigation efforts to protect Miami's
-    infrastructure and residents.
+    This analysis maps potential 2100 inundation across Miami using NASA and Florida Climate Center
+    projections applied to a digital elevation model. The results highlight low-lying neighborhoods
+    and infrastructure that become increasingly vulnerable during storm surge and high-tide events.
   </p>
 
   <img src="/Images/SeaLevelRise.png" alt="Sea level rise map for Miami using a digital elevation model" loading="lazy" />
