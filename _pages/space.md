@@ -43,13 +43,18 @@ description: Space projects spanning light sail deployment, on-orbit machine lea
     machine-learning experiment aboard Spire Global's Lemur-2 nanosatellite.
   </p>
 
-  <img src="/Images/ArdusatSat.png" alt="Render of Ardusat nanosatellite" loading="lazy" />
+  <div class="project-image-row">
+    <img src="/Images/ArdusatSat.png" alt="Render of Ardusat nanosatellite" loading="lazy" />
+    <img src="/Images/ArdusatHardware.jpg" alt="Satellite hardware used during the Young Data Scientists project" loading="lazy" />
+  </div>
+
   <img src="/Images/ArdusatWinner.png" alt="Winner announcement for the ASE Astrosat Challenge" loading="lazy" />
 
   <p>
     Put simply, the model answered one question: is it a cloud or not? Working within a 15 KB data
-    budget, we used a support vector machine to classify roughly 1,500 infrared observations and
-    validated the results against live weather data, achieving about 75% accuracy.
+    budget, we used a <a href="https://en.wikipedia.org/wiki/Support_vector_machine">support vector machine</a>
+    to classify roughly 1,500 infrared observations and validated the results against live weather
+    data, achieving about 75% accuracy.
   </p>
 
   <img src="/Images/ArdusatCode.png" alt="Experimental code for detecting cloud cover from space using infrared sensors" loading="lazy" />
