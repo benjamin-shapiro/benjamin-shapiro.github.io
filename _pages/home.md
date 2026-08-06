@@ -59,7 +59,7 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
         <h3 class="project-card__title"><a href="/Geo#eo-unlocked">EO Unlocked</a></h3>
         <p>User-centric Earth observation discovery interface built to model virtual constellations and past, present, and future interoperability opportunities across commercial and civil assets through large-scale metadata synthesis. Essentially, a Google Flights for Earth observation that shows who can see what and when without requiring direct integration with individual satellite operators or their APIs.</p>
         <a class="live-demo-link ui-label" href="https://eo-unlocked.onrender.com" target="_blank" rel="noopener noreferrer">Live demo</a>
-        <p class="project-card__meta ui-label">Astrodynamics, SGP4, spatial computation, React, ThreeJS</p>
+        <p class="project-card__meta ui-label"><span class="project-card__skill">Astrodynamics,</span> <span class="project-card__skill">SGP4,</span> <span class="project-card__skill">spatial computation,</span> <span class="project-card__skill">React,</span> <span class="project-card__skill">ThreeJS</span></p>
       </div>
     </article>
 
@@ -71,7 +71,7 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
         <p class="project-card__eyebrow ui-label">Applied AI</p>
         <h3 class="project-card__title">Wingman</h3>
         <p>A computer vision-based second set of eyes for cyclists, roughly 20x cheaper than radar-based alternatives, built from commercial off-the-shelf hardware to locate and classify traffic approaching from behind using a rearward-facing camera, a microcontroller, and the processing power already in a rider's phone.</p>
-        <p class="project-card__meta ui-label">Arduino, computer vision, monocular distance estimation, edge computing, mobile app development</p>
+        <p class="project-card__meta ui-label"><span class="project-card__skill">Arduino,</span> <span class="project-card__skill">computer vision,</span> <span class="project-card__skill">monocular distance estimation,</span> <span class="project-card__skill">edge computing,</span> <span class="project-card__skill">mobile app development</span></p>
       </div>
     </a>
 
@@ -83,7 +83,7 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
         <p class="project-card__eyebrow ui-label">Space systems</p>
         <h3 class="project-card__title"><a href="/Space#light-sail">LightSail Deployment Sim</a></h3>
         <p>Simulation of on-orbit free-flying light sail deployment from the <a class="project-card__text-link" href="https://alphacubesat.cornell.edu/index.html" target="_blank" rel="noopener noreferrer">Cornell Alpha CubeSat</a>, developed and choreographed in Unreal Engine 4.</p>
-        <p class="project-card__meta ui-label">Animation, camera orchestration, cinematic sequencing, Unreal Engine</p>
+        <p class="project-card__meta ui-label"><span class="project-card__skill">Animation,</span> <span class="project-card__skill">camera orchestration,</span> <span class="project-card__skill">cinematic sequencing,</span> <span class="project-card__skill">Unreal Engine</span></p>
       </div>
     </article>
 
@@ -95,7 +95,7 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
         <p class="project-card__eyebrow ui-label">Geospatial</p>
         <h3 class="project-card__title">Aromap: The Olfactory Social Network</h3>
         <p>Track smells around your area. Smell something stinky? Report it! Smell something heavenly and want others to experience it? Enlighten your friends. In a world where smells are our most dear sense, Aromap is your guiding light.</p>
-        <p class="project-card__meta ui-label">Crowdsourced mapping, geolocation, social discovery</p>
+        <p class="project-card__meta ui-label"><span class="project-card__skill">Crowdsourced mapping,</span> <span class="project-card__skill">geolocation,</span> <span class="project-card__skill">social discovery</span></p>
       </div>
     </a>
 
@@ -114,7 +114,7 @@ description: Benjamin Shapiro's portfolio of projects spanning space systems, Ea
         <p class="project-card__eyebrow ui-label">Photography</p>
         <h3 class="project-card__title">Astrophotography</h3>
         <p>Night-sky photography from my travels, capturing eclipses, star fields, and the Milky Way across remote landscapes.</p>
-        <p class="project-card__meta ui-label">Long-exposure photography, low-light composition, post-processing</p>
+        <p class="project-card__meta ui-label"><span class="project-card__skill">Long-exposure photography,</span> <span class="project-card__skill">low-light composition,</span> <span class="project-card__skill">post-processing</span></p>
       </div>
     </a>
   </div>
