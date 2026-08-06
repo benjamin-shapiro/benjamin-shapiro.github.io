@@ -16,4 +16,4 @@ description: Selected research and writing on commercial space stations, pandemi
 
 [**_The Role of Space During Pandemics_** (ISU, 2020)](https://isulibrary.isunet.edu/index.php?lvl=notice_display&id=11027#)
 
-> Collaborated with an international team of 86 participants across 20 countries to examine how space-based systems can support pandemic prevention, monitoring, mitigation, and response. The resulting work was later presented to the [Scientific and Technical Subcommittee of the United Nations Committee on the Peaceful Uses of Outer Space](https://www.unoosa.org/documents/pdf/copuos/stsc/2021/tech-35E.pdf).
+> Collaborated across time zones with an international team of 86 participants from more than 30 countries to examine how space-based systems can support pandemic prevention, monitoring, mitigation, and response. The resulting work was later presented to the [Scientific and Technical Subcommittee of the United Nations Committee on the Peaceful Uses of Outer Space](https://www.unoosa.org/documents/pdf/copuos/stsc/2021/tech-35E.pdf).
