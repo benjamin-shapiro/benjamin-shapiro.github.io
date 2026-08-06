@@ -113,7 +113,7 @@ description: Benjamin Shapiro's portfolio of curiosity-driven projects spanning 
       <div class="project-card__body">
         <p class="project-card__eyebrow ui-label">Photography</p>
         <h3 class="project-card__title">Astrophotography</h3>
-        <p>Long-exposure work made under dark skies, from eclipses and Milky Way landscapes to the people who gather beneath them.</p>
+        <p>What I enjoy most about long-exposure photography is uncovering color and structure beyond what the human eye can see in environments that we frequently take for granted. Capturing these hidden details requires escaping the city to find skies that light pollution is making increasingly rare.</p>
         <p class="project-card__meta ui-label"><span class="project-card__skill">Long-exposure photography,</span> <span class="project-card__skill">low-light composition,</span> <span class="project-card__skill">post-processing</span></p>
       </div>
     </a>
