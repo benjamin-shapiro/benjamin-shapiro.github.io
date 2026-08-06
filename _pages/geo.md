@@ -18,11 +18,13 @@ description: Geospatial projects exploring Earth observation, Los Angeles mobili
   <h2 class="project-section__title">EO Unlocked: Metadata Search Engine for Earth Observation</h2>
   <a class="live-demo-link ui-label" href="https://eo-unlocked.onrender.com" target="_blank" rel="noopener noreferrer">Live demo</a>
   <p>
-    User-centric Earth observation discovery interface built to model virtual constellations and
-    past, present, and future interoperability opportunities across commercial and civil assets through
-    large-scale metadata synthesis.
-    Essentially, a Google Flights for Earth observation that shows who can see what and when without
-    requiring direct integration with individual satellite operators or their APIs.
+    EO Unlocked is a user-centric Earth observation discovery interface for modeling virtual
+    constellations and past, present, and future opportunities for coordinated observation across
+    commercial and civil assets. Inspired by Cory Doctorow's writing on
+    <a href="https://www.eff.org/deeplinks/2019/10/adversarial-interoperability">adversarial interoperability</a>,
+    it synthesizes public metadata into a system-level view without requiring direct integration with
+    individual satellite operators or their APIs. Essentially, it is Google Flights for Earth
+    observation: who can see what and when.
   </p>
   <p>
     Uses space situational awareness data from <a href="https://celestrak.org/">CelesTrak</a> to
